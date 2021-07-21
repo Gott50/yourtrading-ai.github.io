@@ -1,0 +1,8 @@
+{% assign cta_text = cta_text | default: site.cta_text_default %}
+{% assign cta_href = cta_href | default: page.cta_href_default | default: site.cta_href_default %}
+
+<a role="button" class="cta-button" href={{ cta_href }}
+   {% include data-amp-addparams %}>
+  <button>{{ cta_text }}</button>
+</a>
+

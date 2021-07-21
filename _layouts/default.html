@@ -1,0 +1,22 @@
+---
+styles:
+- default.scss
+---
+
+<!DOCTYPE html>
+<html amp lang="{{ page.lang | default: site.lang | default: 'en' }}">
+
+  {%- include head.html -%}
+
+  <body class="{{ page.layout | strip_html | escape | downcase | replace: ' ', '-' }}">
+
+    {%- include header.html -%}
+
+    {{ content }}
+
+    {%- include footer.html -%}
+
+    {% include analytics.html %}
+  </body>
+
+</html>

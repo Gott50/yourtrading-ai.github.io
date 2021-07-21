@@ -1,0 +1,38 @@
+.ampstart-footer {
+  background: $color-footer-background;
+  color: $color-white;
+  padding: 64px 16px 128px;
+    margin-top: calc(min(256px, 20vw));
+
+  .container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+    & > div {
+      width: 352px;
+      text-align: left;
+
+      &:last-child {
+        margin-bottom: 0;
+      }
+    }
+
+    @media only screen and (max-width: $mobile-width) {
+      padding-top: 64px;
+    }
+
+  }
+
+  ul {
+    font-size: 18px;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+
+    a {
+      margin: 0;
+    }
+  }
+
+}

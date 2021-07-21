@@ -1,0 +1,14 @@
+{%- assign social = site.minima.social_links -%}
+
+
+<script id="mailscript" type="text/plain" target="amp-script">
+  console.log(document.querySelector('a').textContent)
+
+  const a = document.querySelector('a')
+  a.href = 'mailto:' + a.textContent;
+  document.body.appendChild(a);
+</script>
+
+<amp-script script="mailscript" width="300" height="100">
+  <a>{{ site.email }}</a>
+</amp-script>

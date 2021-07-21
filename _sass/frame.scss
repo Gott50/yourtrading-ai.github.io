@@ -1,0 +1,16 @@
+.frame {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  margin-top: 3.55555em;
+  margin-bottom: calc(min(256px, 40vw));
+
+  a {
+    text-decoration: none;
+  }
+
+  img {
+    border-top-right-radius: 16px;
+    border-top-left-radius: 16px;
+  }
+}

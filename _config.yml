@@ -1,0 +1,167 @@
+lang: "de"
+title: WechselGott
+short_name: WechselGott
+email: kundenservice@wechselgott.com
+tel: +4989 4141 7897-3
+whatsapp: +49 176 57800298
+whatsapp_link: https://api.whatsapp.com/send/?phone=004917657800298&text&app_absent=0
+author: WechselGott GmbH
+address: >
+  Spinnereistraße 7 <br>
+  04179 Leipzig
+description: > # this means to ignore newlines until "show_excerpts:"
+  Nie wieder zu viel für Energie zahlen!
+  ✓ Strom & Gas jedes Jahr automatisch wechseln
+  ✓ Kein Aufwand
+  ✓ Unabhängige Tarife.
+  Jetzt testen!
+
+show_excerpts: true # set to true to show excerpts on the homepage
+
+
+
+color:
+  primary: "#3FD298"
+  secondary: "#1DBAB1"
+  hover: "#1FC7BD"
+  active: "#1BADA5"
+
+logo: assets/WechselGott/Logo-WechselGott-Typo-Right.svg
+defaultHeaderImage:
+cta_text_default: "Anmelden"
+cta_href_default: "https://app.wechselgott.com"
+
+amp-link-variable-allowed-origin: "https://app.wechselgott.com"
+data-amp-addparams:
+  - campaignName
+  - campaignId
+  - utm_source
+  - utm_content
+  - utm_campaign
+  - apn
+  - ibi
+  - isi
+
+# Contact
+static_email:
+
+# Consent
+consent: true
+
+# Analytics
+analytics:
+  provider: true # false (default), "google", "google-universal", "custom"
+  googleadwords:
+    tracking_id: AW-756554075
+#  gtag:
+#    tracking_id: GTM-5BC7R55
+  googleanalytics:
+    tracking_id: UA-132798592-1
+#  facebookpixel:
+#    tracking_id: 000000000000
+
+# Minima date format
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%d.%m.%Y"
+
+  # generate social links in footer
+  social_links:
+#    twitter: jekyllrb
+#    github:  jekyll
+#    rss: rss
+    # dribbble: jekyll
+     facebook: wechselgott
+    # flickr:   jekyll
+     instagram: wechselgott_app
+     linkedin: wechselgott
+#     xing: company/finum
+    # pinterest: jekyll
+    # youtube: jekyll
+    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+    # youtube_channel_name: CloudCannon
+    # telegram: jekyll
+    # googleplus: +jekyll
+    # microdotblog: jekyll
+    # keybase: jekyll
+
+    # Mastodon instances
+    # mastodon:
+    # - username: jekyll
+    #   instance: example.com
+    # - username: jekyll2
+    #   instance: example.com
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.md
+
+# Defaults
+defaults:
+  # default
+  - scope:
+      path: ""
+    values:
+      amp-sidebar: true
+      nocta: true
+
+  # _posts
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
+      meta: BlogPosting
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: page
+      header: true
+      footer: false
+
+# Outputting
+permalink: /:title/
+paginate: 26 # amount of posts to show
+paginate_path: "/blog/page:num/"
+timezone: DE # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+# Collections
+collections:
+  events:
+    output: false
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
+
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+
+exclude:
+  - .idea/
+  - script
+  - src
+  - screenshot.png
+  - node_modules
+  - CNAME
+  - package.json
+  - package-lock.json
+  - "*.txt"
+  - "*.markdown"
+  - "*.gemspec"
+  - "*.sh"
+  - "/*.js"
+
+plugins:
+ - jekyll-feed
+ - jekyll-paginate
+ - jekyll-sitemap
+ - jekyll_image_encode
+ - jekyll-seo-tag

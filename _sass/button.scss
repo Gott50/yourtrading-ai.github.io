@@ -1,0 +1,79 @@
+[type=button]::-moz-focus-inner, [type=reset]::-moz-focus-inner, [type=submit]::-moz-focus-inner, button::-moz-focus-inner {
+  border-style: none;
+  padding: 0
+}
+
+[type=button]:-moz-focusring, [type=reset]:-moz-focusring, [type=submit]:-moz-focusring, button:-moz-focusring {
+  outline: 1px dotted ButtonText
+}
+
+
+button, input, optgroup, select, textarea {
+  font-size: 100%;
+  line-height: 1.15;
+  margin: 8px 0
+}
+
+button, input {
+  overflow: visible
+}
+
+button, select {
+  text-transform: none
+}
+
+[type=reset], [type=submit], button, html [type=button] {
+  -webkit-appearance: button;
+  background-color: $color-secondary;
+  padding: 16px 24px;
+  color: $color-white;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  text-decoration: none;
+  border: 0;
+  border-radius: 27px;
+  width: 352px;
+  max-width: 100%;
+
+  &:hover, &:focus {
+    background-color: $color-hover;
+    color: $color-white;
+    text-decoration: none;
+    cursor: pointer;
+  }
+
+  &:active {
+    background-color: $color-active;
+    opacity: .5;
+  }
+
+  &.stroke {
+    border: 2px solid $color-secondary;
+    background: transparent;
+    color: $color-secondary
+  }
+
+  &.grey {
+    border: 2px solid $color-gray_5;
+    background: transparent;
+    color: $color-gray_5
+  }
+}
+
+.cta-button {
+  display: block;
+  text-align: center;
+  margin: 1.77777em auto;
+  width: fit-content;
+  width: -moz-fit-content;
+
+  button {
+    margin: 0;
+  }
+}
+
+.ampstart-headerbar-logo {
+  text-decoration: none;
+}
+

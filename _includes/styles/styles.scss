@@ -1,0 +1,177 @@
+$mobile-width: 940px;
+$font-family--primary: 'Mulish', sans-serif;
+$font-family--heading: 'Montserrat', sans-serif;
+$container-max-width: 1120px;
+$container-max-width-small: 736px;
+$height-header: 102px;
+
+$color-white: #FFF;
+$color-black: #4C4C4C;
+$color-primary: {% if page.color.primary %} {{page.color.primary}} {% else %} {{site.color.primary}} {% endif %};
+$color-secondary: {% if page.color.secondary %} {{page.color.secondary}} {% else %} {{site.color.secondary}} {% endif %};
+$color-hover: {% if page.color.hover %} {{page.color.hover}} {% else %} {{site.color.hover}} {% endif %};
+$color-active: {% if page.color.active %} {{page.color.active}} {% else %} {{site.color.active}} {% endif %};
+$color-body-background: #FAFAFA;
+
+
+$color-lightblue: #009FE3;
+$color-darkblue: #144569;
+$color-darkblue_40: rgba(20, 69, 105, 0.4);
+$color-darkblue_60: rgba(20, 69, 105, 0.6);
+$color-darkblue_80: rgba(20, 69, 105, 0.8);
+$color-gray_5: #808080;
+$color-body-background-blend-color: #777;
+$color-footer-background: #4C4C4C;
+
+@import 'ampstart-headerbar';
+@import 'ampstart-footer';
+@import 'amp-consent';
+@import 'button';
+@import 'consent';
+
+html{
+  scroll-behavior: smooth;
+}
+
+body, input, textarea {
+  font-size: calc(min(1.125rem, 5vw));
+  font-family: $font-family--primary;
+  font-weight: 400;
+  letter-spacing: 0.01em;
+  background: $color-body-background;
+  color: $color-black;
+  line-height: 1.666666666;
+
+  * {
+    max-width: 100%;
+    column-gap: 16px;
+  }
+}
+
+small, .small {
+  font-size: calc(min(18px, 4vw));
+}
+
+button, .button, .ampstart-headerbar {
+  letter-spacing: 0.04em;
+}
+
+h1,h2,h3,h4,h5,
+.h1,.h2,.h3,.h4,.h5,
+button, .ampstart-headerbar, .ampstart-sidebar, .heading{
+  font-family: $font-family--heading;
+  font-weight: 700;
+  line-height: 123%;
+}
+
+h1, .h1 {
+  font-size: calc(min(72px, 8vw));
+  line-height: 134%;
+  margin: calc(min(2rem, 5vw)) auto;
+  color: $color-black;
+}
+
+h2, .h2 {
+  font-size: calc(min(48px, 7vw));
+  margin: calc(min(2rem, 5vw)) auto;
+
+}
+
+h3, .h3,{
+  font-size: calc(min(36px, 6vw));
+  margin: calc(min(2rem, 5vw)) auto;
+}
+
+h4, .h4, p, ul{
+  font-size: calc(min(24px, 5vw));
+  margin: calc(min(0.5rem, 2vw)) auto;
+  line-height: 1.25;
+}
+
+h5, .h5{
+  font-size: 16px;
+  line-height: 1.25;
+  margin: 0;
+}
+
+p {
+  margin-bottom: calc(min(2rem, 5vw));
+}
+
+.mb {
+  margin-bottom: calc(min(256px, 40vw));
+}
+
+.color-secondary {
+  color: $color-secondary;
+}
+
+figure {
+  margin: 0;
+}
+
+.post-subtitle {
+  color: $color-gray_5;
+}
+
+a, a:active, a:visited {
+  color: inherit;
+}
+
+address {
+  font-style: normal;
+}
+
+section {
+  margin: auto;
+}
+
+.splash {
+  z-index: -2;
+}
+
+.svg-icon {
+  width: 16px;
+  height: 16px;
+  display: inline-block;
+  fill: currentColor;
+  vertical-align: text-bottom;
+}
+
+body .page, body .post{
+  padding: 0 16px;
+  margin-top: calc(#{$height-header} + min(128px, 10vw));
+}
+
+.container, .post-content, .post-header {
+  max-width: $container-max-width;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.post-content {
+  position: relative;
+  z-index: 1;
+
+  .post-header {
+    padding: 0;
+  }
+}
+
+.color-secondary{
+  color: $color-secondary;
+}
+
+.center {
+  text-align: center;
+}
+
+.relative {
+  position: relative;
+}
+
+.wrap {
+  display: flex;
+  flex-wrap: wrap;
+}

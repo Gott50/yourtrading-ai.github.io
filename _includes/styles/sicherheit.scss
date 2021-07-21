@@ -1,0 +1,45 @@
+.post-content {
+  .wrap {
+    justify-content: space-between;
+    div {
+      width: 544px;
+      margin: auto;
+    }
+  }
+
+  .wrap.mt {
+    margin-top: 64px;
+  }
+
+  .wrap.with-image {
+    div {
+      width: 745px;
+      margin-top: auto;
+      margin-bottom: auto;
+    }
+
+    amp-img {
+      margin: auto;
+    }
+  }
+
+  .cta {
+    width: 544px;
+    margin: 128px auto auto;
+    text-align: center;
+  }
+
+  h2 {
+    margin-top: calc(min(256px, 40vw));
+  }
+
+  .safety {
+    amp-img {
+      margin-top: 64px;
+      margin-bottom: 32px;
+    }
+    p {
+      margin-bottom: 0;
+    }
+  }
+}
