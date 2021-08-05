@@ -163,5 +163,4 @@ plugins:
  - jekyll-feed
  - jekyll-paginate
  - jekyll-sitemap
- - jekyll_image_encode
  - jekyll-seo-tag
