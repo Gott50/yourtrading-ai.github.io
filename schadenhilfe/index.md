@@ -2,7 +2,6 @@
 layout: partner 
 title: Garantiert Dein letzter Wechsel!
 subtitle: Dauerhafter Vertragswechsel ohne Aufwand oder Papierkram - jetzt mit der WechselGott App!
-cta_href_default: https://wechselgott.page.link/schadenhilfe
 
 ---
 

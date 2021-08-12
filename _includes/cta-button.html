@@ -1,6 +1,13 @@
 {% assign cta_text = cta_text | default: site.cta_text_default %}
 {% assign cta_href = cta_href | default: page.cta_href_default | default: site.cta_href_default %}
 
+{% for partner in site.data.partner-pages %}
+  {% assign page_path = page.path | split: "/" | first %}
+  {% if partner.path ==  page_path %}
+    {% assign cta_href = partner.cta_href %}
+  {% endif %}
+{% endfor %}
+
 <a role="button" class="cta-button" href={{ cta_href }}
    {% include data-amp-addparams %}>
   <button>{{ cta_text }}</button>
