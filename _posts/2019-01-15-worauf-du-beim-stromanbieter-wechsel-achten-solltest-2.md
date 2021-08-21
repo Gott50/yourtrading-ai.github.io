@@ -1,10 +1,10 @@
 ---
 title: "Worauf Du beim Stromanbieter-Wechsel achten solltest"
 date: "2019-01-15"
-categories: 
+categories:
   - "strom"
   - "tipp"
-coverImage: "Worauf-Du-beim-Stromanbiete-1.gif"
+coverImage: "Worauf-du-beim-Stromanbiete-1.gif"
 ---
 
 
@@ -68,4 +68,3 @@ Hier kommt es auf Deine grundsätzliche Einstellung an. Möchtest Du “grünen 
 
 
 Wir hoffen, wir konnten euch mit diesem Beitrag ein paar wertvolle Tipps geben worauf ihr achten solltet. Du möchtest vollautomatisch und jedes Jahr aufs neue Deinen Stromanbieter wechseln? Mit unserem automatischen Wechselservice übernehmen wir die komplette Tarifrecherche, die Kündigung Deines bestehenden Vertrages und den Wechsel zu Deinem neuen Tarifpartner. Nutze wechselGott und sichere Dir beste Konditionen ohne manuellen Aufwand. It´s time for a change!
-
