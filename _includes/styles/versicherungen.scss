@@ -1,0 +1,221 @@
+.versicherungen .page {
+  .page-header {
+    width: 832px;
+  }
+
+  > section {
+    margin-top: calc(min(256px, 40vw));
+  }
+
+  .testimonials {
+    text-align: center;
+    min-height: 657px;
+
+    .relative {
+      margin-top: 64px;
+
+      > amp-img {
+        margin-top: -100px;
+        @media only screen and (max-width: $mobile-width) {
+          position: absolute;
+          width: 100%;
+          left: 0;
+          margin-top: 0;
+        }
+      }
+    }
+
+    .card {
+      position: absolute;
+      padding: 32px;
+      width: 502px;
+      text-align: left;
+
+      background: $color-white;
+      box-shadow: 0 0 32px rgba(0, 0, 0, 0.08);
+      border-radius: 16px;
+
+      h4 {
+        margin-top: 0;
+      }
+
+      &:nth-child(1) {
+        top: 0;
+      }
+
+      &:nth-child(2) {
+        top: 80px;
+        right: 0;
+      }
+
+      &:nth-child(3) {
+        top: 344px;
+        left: 0;
+        right: 0;
+        margin-right: auto;
+        margin-left: auto;
+      }
+
+      @media only screen and (max-width: $mobile-width) {
+        position: initial;
+        margin-top: -1em;
+        max-width: calc(100vw - 16px * 6);
+
+        &:nth-child(2) {
+          margin-right: 0;
+          margin-left: auto;
+          margin-bottom: auto;
+        }
+      }
+
+
+      amp-img {
+        border-radius: 100%;
+        margin: 0 16px 0 0;
+        float: left;
+      }
+
+      p {
+        margin: 32px 0 0;
+      }
+    }
+  }
+
+  .steps {
+    .wrap {
+      margin-top: 64px;
+      justify-content: space-between;
+
+      > :nth-child(3) {
+        margin: auto;
+      }
+
+      div {
+        width: 448px;
+        position: relative;
+
+        @media only screen and (max-width: $mobile-width) {
+          margin: auto;
+        }
+      }
+    }
+
+    .splash {
+      left: -20%;
+      top: 60px;
+      position: absolute;
+    }
+
+    h4 {
+      margin-top: 32px;
+    }
+  }
+
+  .advatages {
+    .wrap {
+      justify-content: space-around;
+
+      > div {
+        display: flex;
+        margin: 32px 0;
+
+        h4 {
+          width: 432px;
+          margin: auto 0;
+        }
+      }
+    }
+  }
+
+  .insurances {
+    .wrap {
+      margin-top: calc(min(128px, 20vw));
+
+      > div {
+        > h3 {
+          margin-top: 0;
+        }
+      }
+    }
+  }
+
+    .cta-button {
+      margin-left: 0;
+  }
+
+  .wrap {
+    justify-content: space-between;
+
+    div {
+      width: 544px;
+      margin: auto;
+    }
+  }
+
+  .wrap.with-image {
+    div {
+      width: 745px;
+      margin: auto 0;
+    }
+
+    details {
+      width: 745px;
+      margin-right: 0;
+      margin-left: auto;
+
+      h4 {
+        margin-top: calc(min(64px, 10vw));;
+      }
+    }
+
+    amp-img {
+      margin: auto;
+    }
+
+
+    summary {
+      list-style: none;
+      letter-spacing: 0.1em;
+      height: 42px;
+      cursor: pointer;
+      align-items: center;
+      position: relative;
+      display: flex;
+
+      span {
+        margin-left: 64px;
+        font-size: 18px;
+        color: $color-gray_5;
+      }
+
+      &::-webkit-details-marker {
+        display: none;
+      }
+
+      &::before {
+        position: absolute;
+        top: 10px;
+        display: inline-block;
+        margin-right: 32px;
+        margin-left: 16px;
+
+        content: "";
+        width: 11px;
+        height: 11px;
+        border: solid $color-black;
+        border-width: 0 2px 2px 0;
+        -webkit-transform: rotate(45deg);
+        -ms-transform: rotate(45deg);
+        transform: rotate(45deg);
+      }
+    }
+
+    details[open] summary::before {
+      -webkit-transform: rotate(225deg);
+      -ms-transform: rotate(225deg);
+      transform: rotate(225deg);
+      top: auto;
+      bottom: 10px;
+    }
+  }
+}
