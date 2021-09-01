@@ -22,6 +22,10 @@ footer:
     isCTA: True
   - title: "Sicherheit"
     url: /datenschutz-sicherheit
+  - title: "Kosten"
+    url: /kosten
+  - title: "Versicherungen"
+    url: /versicherungen
 
 legal:
   - title: "AGB"

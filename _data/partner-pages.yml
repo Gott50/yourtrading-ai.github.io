@@ -1,3 +1,5 @@
+- path: aachener-bank
+  cta_href: https://wechselgott.page.link/aac
 - path: aktion
   cta_href: https://wechselgott.page.link/VRTB_D_1
 - path: aktion-fb
@@ -22,8 +24,12 @@
   cta_href: https://wechselgott.page.link/VRTB_P_1
 - path: vb-hm
   cta_href: https://wechselgott.page.link/vb-hm
+- path: vbdonw
+  cta_href: https://wechselgott.page.link/vbdonw
 - path: vbvechta
   cta_href: https://wechselgott.page.link/vbvec
+- path: volksbank-berg
+  cta_href: https://wechselgott.page.link/rko
 - path: volksbank-bruchsal-bretten
   cta_href: https://wechselgott.page.link/btt
 - path: volksbank-selm-bork

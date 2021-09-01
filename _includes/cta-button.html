@@ -4,7 +4,7 @@
 {% for partner in site.data.partner-pages %}
   {% assign page_path = page.path | split: "/" | first %}
   {% if partner.path ==  page_path %}
-    {% assign cta_href = partner.cta_href %}
+    {% assign cta_href = cta_href | default: partner.cta_href | default: page.cta_href_default | default: site.cta_href_default %}
   {% endif %}
 {% endfor %}
 
