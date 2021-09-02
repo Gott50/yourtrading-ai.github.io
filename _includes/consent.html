@@ -19,13 +19,13 @@
     <div id="consentDialog">
       <h4 class="color-secondary">🍪 Cookie-Einstellungen</h4>
       <p>Diese Website verwendet Cookies, die die Funktion der Website unterstützen und nachvollziehen, wie Du mit ihr
-        interagierst. Wir verwenden die Cookies nur, wenn Du dem zustimmst, indem Du auf “Alle Cookies akzeptieren”
-        klickst. Du kannst auch individuelle Cookie-Präferenzen unter “Details anzeigen” verwalten.</p>
+        interagierst. Wir verwenden die Cookies nur, wenn Du dem zustimmst, indem Du auf “Akzeptieren”
+        klickst. Du kannst auch individuelle Cookie-Präferenzen unter “Konfigurieren” verwalten.</p>
 
       <hr>
 
       <details class="choices">
-        <summary class="heading">Details anzeigen</summary>
+        <summary class="heading">Konfigurieren</summary>
         <label class="consentLabel" for="consent-essential">
           <input
             disabled
@@ -90,13 +90,7 @@
         class="choiceButton"
         on="tap:siteConsent.accept(purposeConsentDefault=true)"
       >
-        Alle Cookies akzeptieren
-      </button>
-      <button
-        class="choiceButton grey"
-        on="tap:siteConsent.accept"
-      >
-        Nur notwendige Cookies
+        Akzeptieren
       </button>
       <button
         class="choiceButton stroke"
