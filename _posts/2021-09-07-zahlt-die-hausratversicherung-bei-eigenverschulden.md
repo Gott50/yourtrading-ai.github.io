@@ -27,7 +27,7 @@ Die Hausratversicherung schützt Dein Wohnungs- oder Hausinventar und einen Gro�
 - Vandalismus 
 - Explosion 
 
-<br>
+
 Teilweise zahlt die Hausratversicherung auch für Schäden, welche nach einem Schaden entstanden sind, z.B. 
 - Schäden durch Löschwasser eines Feuerwehreinsatzes 
 - Rußschäden  
