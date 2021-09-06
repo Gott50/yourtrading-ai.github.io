@@ -4,7 +4,7 @@ date: "2021-09-06"
 categories: 
   - "ratgeber"
   - "versicherungen"
-coverImage: "Stromspartipps-Facebook.gif"
+coverImage: "Was-ist-eine-Ausfalldeckung.jpg"
 ---
 
 
