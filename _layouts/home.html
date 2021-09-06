@@ -193,7 +193,8 @@ splashes:
     </amp-img>
 
     <div class="wrap">
-      <a role="button" href="{{ cta_href }}"
+      {% include set-cta-data %}
+      <a role="button" href="{{ this_cta_href }}"
          {% include data-amp-addparams %}>
         <amp-img src="{{ 'assets/WechselGott/Webapp-Badge.svg' | relative_url }}"
                  width="170" height="48"
