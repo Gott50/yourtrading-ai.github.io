@@ -1,6 +1,6 @@
 ---
 title: "Zahlt die Hausratversicherung bei Eigenverschulden?"
-date: "2021-09-07"
+date: "2021-09-06"
 categories: 
   - "ratgeber"
   - "versicherungen"
