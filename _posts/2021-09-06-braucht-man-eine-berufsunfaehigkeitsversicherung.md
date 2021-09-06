@@ -41,6 +41,6 @@ Falls Du noch keine Versicherung hast, solltest Du versuchen einen Vertrag abzus
 
 ### Braucht man eine Berufsunfähigkeitsversicherung? 
 
-Eine Berufsunfähigkeitsversicherung mit Ihren Leistungen bei eintretender Berufsunfähigkeit ist durchaus sinnvoll. Sollte unser Ratgeber Fragen offengelassen haben oder Du weitere Fragen haben, sprich gerne in einem individuellen Beratungstermin mit einem unserer Experten. Wir beraten Dich gerne kostenfrei, unabhängig und ohne jegliche Verpflichtungen. Bei uns findest Du eine Vielzahl an Versicherern mit Top-Leistungen. Wir finden gemeinsam mit Dir den optimalen Tarif und vergleichen die einzelnen Versicherungen aus unserem umfassenden Angebot und führen Dich durch den kompletten Abschlussprozess. 
+Eine Berufsunfähigkeitsversicherung mit ihren Leistungen bei eintretender Berufsunfähigkeit ist durchaus sinnvoll. Sollte unser Ratgeber Fragen offengelassen haben oder Du weitere Fragen haben, sprich gerne in einem individuellen Beratungstermin mit einem unserer Experten. Wir beraten Dich gerne kostenfrei, unabhängig und ohne jegliche Verpflichtungen. Bei uns findest Du eine Vielzahl an Versicherern mit Top-Leistungen. Wir finden gemeinsam mit Dir den optimalen Tarif und vergleichen die einzelnen Versicherungen aus unserem umfassenden Angebot und führen Dich durch den kompletten Abschlussprozess. 
 
 Jetzt Termin zur Beratung vereinbaren!  
