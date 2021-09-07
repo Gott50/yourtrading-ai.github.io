@@ -15,7 +15,7 @@ Du befasst Dich gerade mit dem Thema Privathaftpflichtversicherung und fragst Di
 ## Was ist die Ausfalldeckung? 
 Die Forderungsausfalldeckung oder auch Ausfalldeckung genannt ist eine Zusatzleistung der Privathaftpflichtversicherung. Sollte Dir zum Beispiel jemand einen Schaden zufügen aber selbst nicht finanziell in der Lage sein diesen Schadenersatz zu leisten, springt Dein Versicherer hierfür ein und ersetzt Dir Deinen Schaden.  
 
-**Die Ausfalldeckung schützt Dich also vor Schäden durch Dritte, welche selbst ggf. zahlungsunfähig sind oder über keine Haftpflichtversicherung verfügen. 
+**Die Ausfalldeckung schützt Dich also vor Schäden durch Dritte, welche selbst ggf. zahlungsunfähig sind oder über keine Haftpflichtversicherung verfügen.**
 
 ### Wie funktioniert die Ausfalldeckung? 
 Die Ausfalldeckung bzw. Forderungsausfalldeckung ist ein Leistungsbestandteil der privaten Haftpflichtversicherung. Diese schützt Dich vor einem umgedrehten Versicherungsfall, sprich, wenn Du als Versicherter selbst der Geschädigt bist. 
