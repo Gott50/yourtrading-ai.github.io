@@ -1,10 +1,12 @@
 ---
-title: "Braucht man eine Berufsunfähigkeitsversicherung?"
+title: "Braucht man eine Berufsunfähigkeits- versicherung?"
 date: "2021-09-06"
 categories: 
   - "ratgeber"
   - "versicherungen"
 coverImage: "Braucht-man-eine-Berufsunfähigkeitsversicherung.jpg"
+cta_text: "Gratis beraten lassen"
+cta_href: "https://calendly.com/christina-lutz-1?campaignName=QUERY_PARAM(campaignName)&campaignId=QUERY_PARAM(campaignId)&utm_source=QUERY_PARAM(utm_source)&utm_content=QUERY_PARAM(utm_content)&utm_campaign=QUERY_PARAM(utm_campaign)&apn=QUERY_PARAM(apn)&ibi=QUERY_PARAM(ibi)&isi=QUERY_PARAM(isi)"
 ---
 
 
@@ -46,9 +48,3 @@ Eine Berufsunfähigkeitsversicherung mit ihren Leistungen bei eintretender Beruf
 Jetzt Termin zur Beratung vereinbaren!  
 
 <br>
-
-### Finanzen optimieren, ohne Aufwand und Papierkram
-
-Nie wieder an lästige Fristen denken oder diese gar verpassen, kein Papierkrieg mehr und vor allem: nie wieder zu viel
-bezahlen! Wer nun ganz entspannt sparen will, der sollte unbedingt bei app.wechselgott.com vorbei schauen und
-langfristig profitieren!
