@@ -44,3 +44,11 @@ Falls Du noch keine Versicherung hast, solltest Du versuchen einen Vertrag abzus
 Eine Berufsunfähigkeitsversicherung mit ihren Leistungen bei eintretender Berufsunfähigkeit ist durchaus sinnvoll. Sollte unser Ratgeber Fragen offengelassen haben oder Du weitere Fragen haben, sprich gerne in einem individuellen Beratungstermin mit einem unserer Experten. Wir beraten Dich gerne kostenfrei, unabhängig und ohne jegliche Verpflichtungen. Bei uns findest Du eine Vielzahl an Versicherern mit Top-Leistungen. Wir finden gemeinsam mit Dir den optimalen Tarif und vergleichen die einzelnen Versicherungen aus unserem umfassenden Angebot und führen Dich durch den kompletten Abschlussprozess. 
 
 Jetzt Termin zur Beratung vereinbaren!  
+
+<br>
+
+### Finanzen optimieren, ohne Aufwand und Papierkram
+
+Nie wieder an lästige Fristen denken oder diese gar verpassen, kein Papierkrieg mehr und vor allem: nie wieder zu viel
+bezahlen! Wer nun ganz entspannt sparen will, der sollte unbedingt bei app.wechselgott.com vorbei schauen und
+langfristig profitieren!

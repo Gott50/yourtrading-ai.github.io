@@ -38,3 +38,11 @@ Sichern Sie sich gegen Risiken ab, die schnell empfindlich monetär enden könne
 
 Welche Versicherungen das sind, welche Sie wirklich brauchen und welche nicht und wie Sie für sich das beste Preis-/Leistungsverhältnis bekommen, das verraten wir Ihnen gerne in einem Beratungsgespräch. Keine Sorge, da uns das Thema „Sparen“ genau so am Herzen liegt wie Ihnen, überprüfen wir individuell was für Sie Sinn ergibt.
 
+
+<br>
+
+### Finanzen optimieren, ohne Aufwand und Papierkram
+
+Nie wieder an lästige Fristen denken oder diese gar verpassen, kein Papierkrieg mehr und vor allem: nie wieder zu viel
+bezahlen! Wer nun ganz entspannt sparen will, der sollte unbedingt bei app.wechselgott.com vorbei schauen und
+langfristig profitieren!

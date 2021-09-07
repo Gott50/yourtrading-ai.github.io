@@ -30,3 +30,11 @@ Für ein besseres Verständnis der Zusammensetzung hilft Dir auch die folgende T
 
 Wir hoffen, wir konnten euch mit diesem Beitrag einen Einblick in die Zusammensetzung Deines Strompreises geben. Du möchtest Deinen Strom immer zum besten Preis-Leistungs-Verhältnis einkaufen? Nutze unseren  vollautomatischen und kontinuierlichen Wechselservice. 
 
+
+<br>
+
+### Finanzen optimieren, ohne Aufwand und Papierkram
+
+Nie wieder an lästige Fristen denken oder diese gar verpassen, kein Papierkrieg mehr und vor allem: nie wieder zu viel
+bezahlen! Wer nun ganz entspannt sparen will, der sollte unbedingt bei app.wechselgott.com vorbei schauen und
+langfristig profitieren!

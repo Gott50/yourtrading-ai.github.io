@@ -29,3 +29,11 @@ Wir freuen uns von Ihnen zu hören.
 
 Ihre WechselGötter
 
+
+<br>
+
+### Finanzen optimieren, ohne Aufwand und Papierkram
+
+Nie wieder an lästige Fristen denken oder diese gar verpassen, kein Papierkrieg mehr und vor allem: nie wieder zu viel
+bezahlen! Wer nun ganz entspannt sparen will, der sollte unbedingt bei app.wechselgott.com vorbei schauen und
+langfristig profitieren!

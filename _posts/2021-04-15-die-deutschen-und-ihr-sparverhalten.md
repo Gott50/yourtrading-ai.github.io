@@ -22,3 +22,11 @@ Aber nicht nur bei der Geldanlage verlieren die Deutschen durch ihre Skepsis und
 Dabei gibt es mittlerweile viele Möglichkeiten, wie Konsumenten mit wenig Aufwand vergleichen und sich die optimalsten Tarife sichern können. Wir, die Firma WechselGott, hat sich dieser unliebsamen Aufgabe, die viele Menschen umtreibt, angenommen. Wir finden für unsere Kunden jährlich (je nach Präferenz) die günstigsten Tarife und wechseln vollautomatisch. Egal ob Strom und Gas oder Versicherungen. Durch unseren kontinuierlichen Wechselservice können Sie mit minimalem Aufwand das Maximale aus Ihren Verträgen rausholen. Wir finden für Sie Verträge, an die Sie selbst nicht mehr gedacht haben. Diese können Sie mit WechselGott ganz einfach in unserer App mit wenigen Klicks kündigen – und sparen.
 
 
+
+<br>
+
+### Finanzen optimieren, ohne Aufwand und Papierkram
+
+Nie wieder an lästige Fristen denken oder diese gar verpassen, kein Papierkrieg mehr und vor allem: nie wieder zu viel
+bezahlen! Wer nun ganz entspannt sparen will, der sollte unbedingt bei app.wechselgott.com vorbei schauen und
+langfristig profitieren!

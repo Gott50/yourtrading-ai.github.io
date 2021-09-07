@@ -30,13 +30,8 @@ styles:
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
 
-    <br>
-    <br>
-    <h3>Finanzen optimieren, ohne Aufwand und Papierkram</h3>
-    <p>Nie wieder an lästige Fristen denken oder diese gar verpassen, kein Papierkrieg mehr und vor allem: nie wieder zu
-      viel bezahlen! Wer nun ganz entspannt sparen will, der sollte unbedingt bei app.wechselgott.com vorbei schauen und
-      langfristig profitieren!</p>
-    {% assign cta_text= 'Jetzt anmelden' %}
+    {% assign cta_text= page.cta_text | default: 'Jetzt anmelden' %}
+    {% assign cta_href= page.cta_href%}
     {% include cta-button.html %}
 
   </div>

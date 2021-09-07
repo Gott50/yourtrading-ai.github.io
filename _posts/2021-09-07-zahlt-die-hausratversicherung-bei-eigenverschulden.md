@@ -5,6 +5,8 @@ categories:
   - "ratgeber"
   - "versicherungen"
 coverImage: "Zahlt-die-Hausratversicherung-bei-Eigenverschulden.jpg"
+cta_text: "cta_text"
+cta_href: "cta_href"
 ---
 
 
@@ -55,3 +57,11 @@ Solltest Du Schäden Deinem Versicherer melden wollen, bei denen möglicherweise
  
 ### Hast Du eine Frage zum Thema Hausratversicherung?
 Wir hoffen unser Ratgeber konnte Dir bereits einen Großteil der Frage beantworten, ob die Hausratversicherung bei Eigenverschulden für Schäden zahlt. Falls Du weitere Fragen rund um das Thema haben solltest, sprich gerne kostenfrei und unverbindlich mit einem unserer Versicherungsexperten. Vereinbare einfach einen Telefon- oder Termin zur Videoberatung. Wir freuen uns Dich kennenzulernen und stehen Dir gerne jederzeit für Fragen zum Thema Versicherungen zur Verfügung.
+
+<br>
+
+### Finanzen optimieren, ohne Aufwand und Papierkram
+
+Nie wieder an lästige Fristen denken oder diese gar verpassen, kein Papierkrieg mehr und vor allem: nie wieder zu viel
+bezahlen! Wer nun ganz entspannt sparen will, der sollte unbedingt bei app.wechselgott.com vorbei schauen und
+langfristig profitieren!

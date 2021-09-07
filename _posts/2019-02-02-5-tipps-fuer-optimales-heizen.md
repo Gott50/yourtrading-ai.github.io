@@ -36,3 +36,11 @@ Ob Deine Fenster und Türen Energie verschwenden kannst Du ganz leicht feststell
 
 Wir hoffen, wir konnten euch mit diesem Beitrag ein paar wertvolle Tipps geben Deine Heizkosten zu senken. Du möchtest vollautomatisch und jedes Jahr aufs neue Deinen Strom- und Gasanbieter wechseln? Mit unserem automatischen Wechselservice übernehmen wir die komplette Tarifrecherche, die Kündigung Deines bestehenden Vertrages und den Wechsel zu Deinem neuen Tarifpartner. Nutze wechselGott und sichere Dir beste Konditionen ohne manuellen Aufwand. It´s time for a change!
 
+
+<br>
+
+### Finanzen optimieren, ohne Aufwand und Papierkram
+
+Nie wieder an lästige Fristen denken oder diese gar verpassen, kein Papierkrieg mehr und vor allem: nie wieder zu viel
+bezahlen! Wer nun ganz entspannt sparen will, der sollte unbedingt bei app.wechselgott.com vorbei schauen und
+langfristig profitieren!
