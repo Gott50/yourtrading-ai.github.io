@@ -5,6 +5,8 @@ categories:
   - "ratgeber"
   - "versicherungen"
 coverImage: "Was-ist-eine-Ausfalldeckung.jpg"
+cta_text: "Gratis beraten lassen"
+cta_href: "https://calendly.com/christina-lutz-1?campaignName=QUERY_PARAM(campaignName)&campaignId=QUERY_PARAM(campaignId)&utm_source=QUERY_PARAM(utm_source)&utm_content=QUERY_PARAM(utm_content)&utm_campaign=QUERY_PARAM(utm_campaign)&apn=QUERY_PARAM(apn)&ibi=QUERY_PARAM(ibi)&isi=QUERY_PARAM(isi)"
 ---
 
 
@@ -38,9 +40,3 @@ Die Ausfalldeckung gibt es sowohl in der Privathaftpflichtversicherung also auch
 Unser Ratgeber konnte Dir nicht alle Fragen rund um das Thema Ausfalldeckung beantworten? Unser Expertenteam berät Dich gerne darüber hinaus. Sprich gerne unverbindlich mit einem unserer geschulten Versicherungsexperten. Diese können Dir alle Fragen rund um die Ausfalldeckung, Privathaftpflicht und viele weitere Versicherungen direkt beantworten. Dieser Service ist kostenlos und findet bequem per Telefon oder Videoberatung statt. Vereinbare Deinen Termin ganz einfach online.
 
 <br>
-
-### Finanzen optimieren, ohne Aufwand und Papierkram
-
-Nie wieder an lästige Fristen denken oder diese gar verpassen, kein Papierkrieg mehr und vor allem: nie wieder zu viel
-bezahlen! Wer nun ganz entspannt sparen will, der sollte unbedingt bei app.wechselgott.com vorbei schauen und
-langfristig profitieren!
