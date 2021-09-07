@@ -5,6 +5,7 @@ categories:
   - "ratgeber"
   - "versicherungen"
 coverImage: "Braucht-man-eine-Berufsunfähigkeitsversicherung.jpg"
+excerpt: "Ist eine Berufsunfähigkeitsversicherung überhaupt sinnvoll? Vor welchen Risiken schützt sie dich, und was gilt es beim Abschluss zu beachten? Wir verraten es dir."
 cta_text: "Gratis beraten lassen"
 cta_href: "https://calendly.com/christina-lutz-1?campaignName=QUERY_PARAM(campaignName)&campaignId=QUERY_PARAM(campaignId)&utm_source=QUERY_PARAM(utm_source)&utm_content=QUERY_PARAM(utm_content)&utm_campaign=QUERY_PARAM(utm_campaign)&apn=QUERY_PARAM(apn)&ibi=QUERY_PARAM(ibi)&isi=QUERY_PARAM(isi)"
 ---
