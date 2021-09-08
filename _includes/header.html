@@ -1,11 +1,6 @@
 <!-- Start Navbar -->
 <header class="ampstart-headerbar">
-  {% assign partner = page.path | split: "/" | first %}
-  {% if partner != "index.html" and partner != "_pages" and partner != "_posts" and partner != "blog" %}
-  {% assign partnerLogo = '/logo.svg' | prepend: partner %}
-  {%else%}
-  {% assign partner = False %}
-  {% endif %}
+  {% include set-partner-data %}
 
   {% if site.logo %}
   <a class="ampstart-headerbar-logo" href="{{ '#' | prepend: partner | relative_url }}" itemprop="url" {% include data-amp-addparams %}>

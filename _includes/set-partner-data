@@ -1,0 +1,7 @@
+{% assign partner = page.path | split: "/" | first %}
+
+{% if partner != "index.html" and partner != "_pages" and partner != "_posts" and partner != "blog" %}
+    {% assign partnerLogo = '/logo.svg' | prepend: partner %}
+{%else%}
+    {% assign partner = False %}
+{% endif %}
