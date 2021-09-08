@@ -7,7 +7,7 @@ categories:
 coverImage: "Was-ist-eine-Ausfalldeckung.jpg"
 excerpt: "Die Ausfalldeckung Deiner Haftpflichtversicherung sichert Dich vor großen finanziellen Schäden Dritter. Wozu Du diese überhuapt benötigst und wie Du Deine Schäden geltend machen kannst - Hier gibts alle Infos."
 cta_text: "Gratis beraten lassen"
-cta_href: "https://calendly.com/christina-lutz-1?campaignName=QUERY_PARAM(campaignName)&campaignId=QUERY_PARAM(campaignId)&utm_source=QUERY_PARAM(utm_source)&utm_content=QUERY_PARAM(utm_content)&utm_campaign=QUERY_PARAM(utm_campaign)&apn=QUERY_PARAM(apn)&ibi=QUERY_PARAM(ibi)&isi=QUERY_PARAM(isi)"
+cta_href: "https://calendly.com/christina-lutz-1"
 ---
 
 
