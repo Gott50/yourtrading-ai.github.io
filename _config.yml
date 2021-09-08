@@ -61,6 +61,12 @@ analytics:
   facebookpixel:
     tracking_id: 669247813944831
 
+# Experiments
+experiments:
+  experimentName: Startseiten-Experiment-Ersparnis
+  gaPropertyID: UA-132798592-1
+  gaExperimentID: CW8M_WYZSXCjiP1CK4dDT
+
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:

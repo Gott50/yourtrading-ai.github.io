@@ -55,3 +55,45 @@
 </amp-analytics>
 <!-- End googleanalytics tracking-->
 {% endif %}
+
+{% if site.experiments.gaExperimentID %}
+<!-- Google Optimize Experiment -->
+<amp-experiment>
+  <script type="application/json">
+    {
+      "{{site.experiments.experimentName}}": {
+        "sticky": false,
+        "variants": {
+          "0": 50,
+          "1": 50
+        }
+      }
+    }
+  </script>
+</amp-experiment>
+
+<amp-analytics id='analytics1' type='googleanalytics'>
+  <script type='application/json'>
+{
+  "vars": {
+    "account": "{{site.experiments.gaPropertyID}}"
+  },
+  "requests": {
+     "experiment": "${pageview}&xid=${xid}&xvar=${xvar}"
+  },
+  "triggers": {
+    "trackPageview": {
+      "on": "visible",
+      "request": "experiment",
+       "vars": {
+         "xid": "{{site.experiments.gaExperimentID}}",
+         "xvar": "VARIANT({{site.experiments.experimentName}})"
+       }
+    }
+  }
+}
+
+  </script>
+</amp-analytics>
+<!-- End Google Optimize Experiment -->
+{% endif %}

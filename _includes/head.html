@@ -29,6 +29,9 @@
   {% if site.analytics.provider %}
   <script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
   {% endif%}
+  {% if site.experiments.gaExperimentID %}
+  <script async custom-element="amp-experiment" src="https://cdn.ampproject.org/v0/amp-experiment-0.1.js"></script>
+  {% endif%}
   {% if site.consent%}
   <script async custom-element="amp-consent" src="https://cdn.ampproject.org/v0/amp-consent-0.1.js"></script>
   <meta name="amp-consent-blocking" content="amp-ad,amp-iframe"/>
