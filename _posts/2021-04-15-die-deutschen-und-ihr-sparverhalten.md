@@ -4,7 +4,7 @@ date: "2021-04-15"
 categories: 
   - "tipps"
   - "strom"
-coverImage: "Stromspartipps-Facebook.gif"
+coverImage: "Die-Deutschen-und-ihr-Sparverhalten.gif"
 ---
 
 In Deutschland leben vorsichtige Sparer. Die lange Niedrigzinsphase sowie das schwindende Vertrauen in die Banken sorgt dafür, dass wieder vermehrt Bargeld in den altbekannten Sparstrumpf gesteckt und Zuhause gebunkert wird.

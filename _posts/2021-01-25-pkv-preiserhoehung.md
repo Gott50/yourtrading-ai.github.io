@@ -4,7 +4,7 @@ date: "2021-01-25"
 categories: 
   - "sparen"
   - "tipp"
-coverImage: "AdobeStock_268056521-scaled.jpeg"
+coverImage: "PKV-erhöht-Preise-Wie-Sie-sich-Geld-zurückholen-können.jpeg"
 excerpt: Private Krankenversicherer erhöhen Ihre Prämien. Im Durchschnitt zahlen PKV-Versicherte 17,6% mehr seit Januar 2021. Die Tendenz ist weiter steigend. Erfahren Sie wie Sie sich Geld zurückholen können!
 ---
 

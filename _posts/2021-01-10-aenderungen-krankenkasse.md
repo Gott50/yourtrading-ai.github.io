@@ -4,7 +4,7 @@ date: "2021-01-10"
 categories: 
   - "sparen"
   - "tipp"
-coverImage: "AdobeStock_176490580-scaled.jpeg"
+coverImage: "Änderung-bei-den-gesetzlichen-Krankenkassen-seit-Januar-2021.jpeg"
 excerpt: >
     Seit letzten Oktober steht fest: die Zusatzbeiträge werden im Januar 2021 erhöht. Das liegt zum einen an den
     pandemiebedingten Mehrausgaben und zum anderen an den geringeren Einnahmen durch Kurzarbeit und Arbeitslosigkeit die

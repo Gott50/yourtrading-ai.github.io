@@ -4,7 +4,7 @@ date: "2019-01-15"
 categories:
   - "strom"
   - "tipp"
-coverImage: "Worauf-du-beim-Stromanbiete-1.gif"
+coverImage: "Worauf-Du-beim-Stromanbieter-Wechsel-achten-solltest.gif"
 ---
 
 

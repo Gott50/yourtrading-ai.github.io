@@ -5,7 +5,7 @@ categories:
   - "gutes-tun"
   - "strom"
   - "tipp"
-coverImage: "Gruende-fuer-Oekostrom.gif"
+coverImage: "Gründe-für-Ökostrom.gif"
 ---
 
 

@@ -4,7 +4,7 @@ date: "2021-01-25"
 categories: 
   - "sparen"
   - "tipp"
-coverImage: "AdobeStock_46098626-scaled.jpeg"
+coverImage: "Überzogene-Strompreise-bei-Grundversorgern.jpeg"
 excerpt: Die Preise steigen enorm für die Kunden in den Grundversorgertarifen. Wie Sie nun am einfachsten Wechseln und von hohem Einsparpotential profitieren, erfahren Sie hier
 ---
 

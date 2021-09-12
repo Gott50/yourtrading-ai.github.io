@@ -4,7 +4,7 @@ date: "2019-02-03"
 categories: 
   - "sparen"
   - "tipp"
-coverImage: "752-Regel-855x500.gif"
+coverImage: "Warum-dich-Dein-Coffee-to-go-10.000-Euro-kostet.gif"
 ---
 
 
