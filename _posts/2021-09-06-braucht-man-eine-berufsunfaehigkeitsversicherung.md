@@ -1,5 +1,6 @@
 ---
-title: "Braucht man eine Berufsunfähigkeits- versicherung?"
+title: "Braucht man eine Berufsunfähigkeitsversicherung?"
+excerpt_title: "Braucht man eine Berufsunfähigkeits- versicherung?"
 date: "2021-09-06"
 categories: 
   - "ratgeber"
