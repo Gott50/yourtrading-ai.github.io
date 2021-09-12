@@ -97,3 +97,9 @@
 </amp-analytics>
 <!-- End Google Optimize Experiment -->
 {% endif %}
+
+{% for id in site.analytics.gtags %}
+<!-- Google Tag Manager -->
+<amp-analytics config="https://www.googletagmanager.com/amp.json?id={{id}}"
+               data-credentials="include"></amp-analytics>
+{% endfor %}

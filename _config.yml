@@ -60,6 +60,9 @@ analytics:
     tracking_id: UA-132798592-1
   facebookpixel:
     tracking_id: 669247813944831
+  gtags:
+    - GTM-P8V4Q3S
+    - GTM-P3VSM78
 
 # Experiments
 experiments:
