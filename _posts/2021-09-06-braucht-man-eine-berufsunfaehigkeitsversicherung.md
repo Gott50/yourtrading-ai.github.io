@@ -6,13 +6,13 @@ categories:
   - "ratgeber"
   - "versicherungen"
 coverImage: "Braucht-man-eine-Berufsunfähigkeitsversicherung.jpg"
-excerpt: "Wozu braucht man eine Berugsunfähigkeitsversicherung. Ist eine BU überhaupt sinnvoll? Vor welchen Risiken schützt sie Dich, und was gilt es beim Abschluss einer BU-Versicherung zu beachten?"
+excerpt: "Wozu braucht man eine Berufsunfähigkeits- versicherung. Ist eine BU überhaupt sinnvoll? Vor welchen Risiken schützt sie Dich, und was gilt es beim Abschluss einer BU-Versicherung zu beachten?"
 cta_text: "Gratis beraten lassen"
 cta_href: "https://calendly.com/christina-lutz-1"
 ---
 
 
-Wozu braucht man eine Berufsunfähigkeits- versicherung? Stellst Du Dir gerade diese Frage oder stehst Du evtl. kurz vor einem Abschluss eines Versicherungsvertrages? Eine Berufsunfähigkeitsversicherung, auch BU-Versicherung genannt, schützt Dich vor den Folgen einer Berufsunfähigkeit und ist Teil einer soliden Altersvorsorge. Das bedeutet, dass Dein Versicherer eine Art Rente auszahlt, sofern Du aus gesundheitlichen Gründen Deinen Beruf nicht mehr ausüben kannst. Warum eine Berufsunfähigkeitsversicherung für Dich sinnvoll ist, wollen wir kurz in diesem Ratgeber näher beleuchten. 
+Wozu braucht man eine Berufsunfähigkeitsversicherung? Stellst Du Dir gerade diese Frage oder stehst Du evtl. kurz vor einem Abschluss eines Versicherungsvertrages? Eine Berufsunfähigkeitsversicherung, auch BU-Versicherung genannt, schützt Dich vor den Folgen einer Berufsunfähigkeit und ist Teil einer soliden Altersvorsorge. Das bedeutet, dass Dein Versicherer eine Art Rente auszahlt, sofern Du aus gesundheitlichen Gründen Deinen Beruf nicht mehr ausüben kannst. Warum eine Berufsunfähigkeitsversicherung für Dich sinnvoll ist, wollen wir kurz in diesem Ratgeber näher beleuchten. 
 
 ## Wozu brauchst Du eine Berufsunfähigkeitsversicherung?
 Laut der Deutschen Rentenversicherung schafft es jeder Fünfte nicht bis zu Altersrente zu arbeiten, sondern bezieht eine sogenannte Erwerbsminderungsrente. Diese Rente fällt jedoch meist deutlich geringer aus als das ursprüngliche Gehalt. Oftmals erhalten Betroffene nur ein Drittel ihres letzten Bruttogehalts oder weniger. Dies reicht nur in den wenigsten Fällen, um seinen Lebensstandard zu erhalten. Um Dich vor diesen Folgen zu schützen, ist eine Absicherung gegen Berufsunfähigkeit durchaus sinnvoll. Aus unserer Sicht würden wir also sagen **"Ja, man braucht eine Berufsunfähigkeitsversicherung."**
