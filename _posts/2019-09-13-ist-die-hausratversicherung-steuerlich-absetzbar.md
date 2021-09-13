@@ -93,6 +93,7 @@ Bei der Steuererklärung gilt der Grundsatz, dass Du Versicherungsbeiträge, wel
 - Risikolebensversicherung 
 - Rentenversicherung 
 - Haftpflichtversicherung 
+
 <br>
 <br>
 **Steuerlich absetzbare berufsbedingte Versicherungen**
