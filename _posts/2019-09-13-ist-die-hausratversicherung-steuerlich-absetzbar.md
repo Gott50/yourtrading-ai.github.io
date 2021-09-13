@@ -104,7 +104,6 @@ Bei der Steuererklärung gilt der Grundsatz, dass Du Versicherungsbeiträge, wel
 - Teile der Rechtsschutzversicherung 
 
 <br>
-<br>
 Falls Du im vergangenen Jahr Beiträge für eine der o.g. berufsbedingte Versicherung gezahlt hast, kannst Du diese also in der Steuererklärung als Werbungskosten in der Anlage N (Angestellte) oder bei den Betriebskosten (Selbstständige) angeben.  
 
 ### Hast Du eine Frage zur Hausratversicherung? 
