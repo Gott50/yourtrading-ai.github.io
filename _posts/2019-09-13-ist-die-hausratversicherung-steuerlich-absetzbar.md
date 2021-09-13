@@ -5,7 +5,7 @@ categories:
   - "ratgeber"
   - "versicherungen"
 coverImage: "Braucht-man-eine-Berufsunfähigkeitsversicherung.jpg"
-excerpt: "Wozu braucht man eine Berugsunfähigkeitsversicherung. Ist eine BU überhaupt sinnvoll? Vor welchen Risiken schützt sie Dich, und was gilt es beim Abschluss einer BU-Versicherung zu beachten?"
+excerpt: "Die Hausratversicherung ist unter bestimmten Voraussetzungen steuerlich absetzbar. Wir verraten Dir, wie Du die Hausratversicherung erfolgreich bei Deiner Steuererklärung geltend machen kannst."
 cta_text: "Gratis beraten lassen"
 cta_href: "https://calendly.com/christina-lutz-1"
 ---
