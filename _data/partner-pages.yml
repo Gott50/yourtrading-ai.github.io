@@ -8,6 +8,7 @@
   cta_href: https://wechselgott.page.link/VRTB_I_1
 - path: amazon-deal
   cta_href: https://wechselgott.page.link/SEMAZ
+  amazon_deal: True
 - path: angebot
   cta_href: https://wechselgott.page.link/H2Lo
 - path: los

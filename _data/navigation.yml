@@ -26,6 +26,9 @@ footer:
     url: /kosten
   - title: "Versicherungen"
     url: /versicherungen
+  - title: "Teilnahmebedingungen"
+    url: /teilnahmebedingungen
+    amazon_deal: True
 
 legal:
   - title: "AGB"

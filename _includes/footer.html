@@ -5,14 +5,10 @@
       <div>
         <h4>Information</h4>
         <nav>
+<!--{{partner}}-->
           <ul>
             {% for link in site.data.navigation.footer %}
-            {% unless partner and link.noPartner %}
-            {% include set-cta-data %}
-            <li><a href="{% if link.isCTA %}{{ this_cta_href }}{%else%}{{ link.url | prepend: partner | relative_url }}{%endif%}"
-                   rel="noopener" class="masthead__menu-item"
-                   {% include data-amp-addparams %}>{{ link.title }}</a></li>
-            {% endunless %}
+              {% include footer-li.html %}
             {% endfor %}
           </ul>
         </nav>
@@ -23,12 +19,7 @@
         <nav>
           <ul>
             {% for link in site.data.navigation.legal %}
-            {% unless partner and link.noPartner %}
-            {% include set-cta-data %}
-            <li><a href="{% if link.isCTA %}{{ this_cta_href }}{%else%}{{ link.url | prepend: partner | relative_url }}{%endif%}"
-                   rel="noopener" class="masthead__menu-item"
-                   {% include data-amp-addparams %}>{{ link.title }}</a></li>
-            {% endunless %}
+              {% include footer-li.html %}
             {% endfor %}
           </ul>
         </nav>

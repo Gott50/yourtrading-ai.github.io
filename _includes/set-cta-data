@@ -6,4 +6,7 @@
   {% if partner.path ==  page_path %}
     {% assign this_cta_href = cta_href | default: partner.cta_href | default: page.cta_href_default | default: site.cta_href_default %}
   {% endif %}
+  {% if partner.path ==  page_path %}
+    {% assign this_partner = partner %}
+  {% endif %}
 {% endfor %}

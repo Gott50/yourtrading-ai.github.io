@@ -1,0 +1,13 @@
+{% unless partner and link.noPartner %}
+    {% include set-cta-data %}
+
+    {% if link.amazon_deal == False %}
+        <li><a href="{% if link.isCTA %}{{ this_cta_href }}{%else%}{{ link.url | prepend: partner | relative_url }}{%endif%}"
+               rel="noopener" class="masthead__menu-item"
+               {% include data-amp-addparams %}>{{ link.title }}</a></li>
+    {% elsif link.amazon_deal and this_partner.amazon_deal %}
+        <li><a href="{% if link.isCTA %}{{ this_cta_href }}{%else%}{{ link.url | prepend: partner | relative_url }}{%endif%}"
+               rel="noopener" class="masthead__menu-item"
+               {% include data-amp-addparams %}>{{ link.title }}</a></li>
+    {% endif %}
+{% endunless %}
