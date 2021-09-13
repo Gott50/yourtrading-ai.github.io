@@ -12,7 +12,7 @@ styles:
     {% if page.coverImage %}
     {% assign alt = page.coverImage | split: '.' %}
     <figure>
-      <amp-img height="630px" width="1120px" alt="{{ page.title | default: alt[0] }}" layout="responsive"
+      <amp-img height="630px" width="1120px" alt="{{ page.title | default: alt[0] }}" title="{{ page.title | default: alt[0] }}" layout="responsive"
                src='{{ page.coverImage | prepend: "/assets/post/" | relative_url }}'></amp-img>
     </figure>
     {% endif %}
