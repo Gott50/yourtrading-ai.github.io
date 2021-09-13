@@ -53,11 +53,11 @@ Dein Arbeitszimmer oder Homeoffice erfüllt die o.g. Bedingungen und ist somit s
 ### Hier trägst Du die Hausratversicherung in der Steuererklärung ein 
 Je nach Art Deines Einkommens musst Du das Arbeitszimmer in Deiner Steuererklärung unterschiedlich angeben. Wir verraten Dir, wo Du die Kosten für das Finanzamt eintragen musst. Dabei spielt es keine Rolle, ob Du diese per Post oder online über die elektronische Steuererklärung (ELSTER) einreichst.  
 
-- Als Arbeitnehmer gibt Du die Kosten für die Hausratpolice anteilig in der Anlage N unter den Werbungskosten an 
+- Als **Arbeitnehmer** gibt Du die Kosten für die Hausratpolice anteilig in der Anlage N unter den Werbungskosten an 
 
-- Als Selbstständiger kannst Du die Kosten unter Betriebsausgaben in der Anlage EÜR (Einnahmeüberschussrechnung) angeben. Diese mindern somit den steuerpflichtigen Anteil Deines Gewinns 
+- Als **Selbstständiger** kannst Du die Kosten unter Betriebsausgaben in der Anlage EÜR (Einnahmeüberschussrechnung) angeben. Diese mindern somit den steuerpflichtigen Anteil Deines Gewinns 
 
-- Als Auszubildender oder Student, welcher ein Arbeitszimmer für nahezu ausschließlich Lernzwecke nutzt, gibst Du die Kosten der Hausratversicherung anteilig in der Anlage Sonderausgaben unter Berufsausbildung an. 
+- Als **Auszubildender oder Student**, welcher ein Arbeitszimmer für nahezu ausschließlich Lernzwecke nutzt, gibst Du die Kosten der Hausratversicherung anteilig in der Anlage Sonderausgaben unter Berufsausbildung an. 
 
  
 ### Welchen Anteil kannst Du steuerlich geltend machen? 
@@ -102,4 +102,4 @@ Bei der Steuererklärung gilt der Grundsatz, dass Du Versicherungsbeiträge, wel
 Falls Du im vergangenen Jahr Beiträge für eine der o.g. berufsbedingte Versicherung gezahlt hast, kannst Du diese also in der Steuererklärung als Werbungskosten in der Anlage N (Angestellte) oder bei den Betriebskosten (Selbstständige) angeben.  
 
 ### Hast Du eine Frage zum Thema Hausratversicherung? 
-Wir hoffen unser Ratgeber konnte Dir bereits einen Großteil der Frage beantworten in welchen Fällen Du Deine Beiträge für die Hausratversicherung steuerlich absetzen kannst. Falls Du weitere Fragen rund um das Thema haben solltest, kann Dir ein Steuerberater bestimmt weiterhelfen. Solltest Du Fragen rund um das Thema Hausratversicherung oder zu einer anderen Versicherung haben, vereinbare gerne einen kostenlosen und unverbindlichen Telefon- oder Termin zur Videoberatung. Wir freuen uns Dich kennenzulernen und stehen Dir gerne jederzeit für Fragen zum Thema Versicherungen zur Verfügung. 
+Wir hoffen unser Ratgeber konnte Dir bereits einen Großteil der Frage **Ist die Hausratversicherung steuerlich absetzbar** beantorten. Falls Du weitere Fragen rund um das Thema haben solltest, kann Dir ein Steuerberater bestimmt weiterhelfen. Solltest Du Fragen rund um das Thema Hausratversicherung oder zu einer anderen Versicherung haben, vereinbare gerne einen kostenlosen und unverbindlichen Telefon- oder Termin zur Videoberatung. Wir freuen uns Dich kennenzulernen und stehen Dir gerne jederzeit für Fragen zum Thema Versicherungen zur Verfügung. 
