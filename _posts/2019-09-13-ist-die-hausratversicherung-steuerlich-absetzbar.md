@@ -69,6 +69,7 @@ Wie hoch der Anteil Deiner Hausratversicherung ausfällt, den Du absetzen kannst
 - Gesamtfläche Deiner Wohnung: 100 m² 
 - Größe Deines Arbeitszimmers: 10 m² 
 - Jahresbeitrag Deiner Haftpflichtversicherung: 100 € 
+
 <br>
 <br>
 **Gesamtfläche Deiner Wohnung (100) x Größe Deines Arbeitszimmers (10) : Jahresbeitrag (100) = 10 € steuerlich anrechenbarer Anteil** 
@@ -101,6 +102,7 @@ Bei der Steuererklärung gilt der Grundsatz, dass Du Versicherungsbeiträge, wel
 - Berufshaftpflichtversicherung 
 - (Berufliche) Unfallversicherung 
 - Teile der Rechtsschutzversicherung 
+
 <br>
 <br>
 Falls Du im vergangenen Jahr Beiträge für eine der o.g. berufsbedingte Versicherung gezahlt hast, kannst Du diese also in der Steuererklärung als Werbungskosten in der Anlage N (Angestellte) oder bei den Betriebskosten (Selbstständige) angeben.  
