@@ -35,7 +35,9 @@ Wenn Du zu Hause nachweislich ein Arbeitszimmer für berufliche Zwecke eingerich
 
 Um die Hausratversicherung anteilig bei der Steuer geltend machen zu können, musst Du die Nutzung des Arbeitszimmers gegenüber dem Finanzamt nachweisen. Hierfür müssen folgende Voraussetzungen erfüllt sein: 
 - Du bist zum Beispiel im Außendienst tätig und hast innerhalb der Firma keinen Arbeitsplatz für die Vor- und Nachbereitung Deiner Arbeit oder benötigst das Zimmer für Telefontermine 
+
 - Das Arbeitszimmer ist der Mittelpunkt Deiner selbstständigen Tätigkeit oder Du bist angestellter Heimarbeiter 
+
 - Die Nutzung Deines Arbeitszimmers erfolgt zu 90 Prozent aus beruflichen Beweggründen 
 
 
@@ -69,6 +71,7 @@ Wie hoch der Anteil Deiner Hausratversicherung ausfällt, den Du absetzen kannst
 - Jahresbeitrag Deiner Haftpflichtversicherung: 100 € 
 
 
+
 **Gesamtfläche Deiner Wohnung (100) x Größe Deines Arbeitszimmers (10) : Jahresbeitrag (100) = 10 € steuerlich anrechenbarer Anteil** 
 
 ### Nachweise für die Steuererklärung 
@@ -93,10 +96,12 @@ Bei der Steuererklärung gilt der Grundsatz, dass Du Versicherungsbeiträge, wel
 - Haftpflichtversicherung 
 
 
+
 **Steuerlich absetzbare berufsbedingte Versicherungen**
 - Berufshaftpflichtversicherung 
 - (Berufliche) Unfallversicherung 
 - Teile der Rechtsschutzversicherung 
+
 
 
 Falls Du im vergangenen Jahr Beiträge für eine der o.g. berufsbedingte Versicherung gezahlt hast, kannst Du diese also in der Steuererklärung als Werbungskosten in der Anlage N (Angestellte) oder bei den Betriebskosten (Selbstständige) angeben.  
