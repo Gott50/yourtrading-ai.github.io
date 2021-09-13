@@ -4,7 +4,7 @@ date: "2021-09-13"
 categories: 
   - "ratgeber"
   - "versicherungen"
-coverImage: "Braucht-man-eine-Berufsunfähigkeitsversicherung.jpg"
+coverImage: "Ist-die-Hausratversicherung-steuerlich-absetzbar.gif"
 excerpt: "Die Hausratversicherung ist unter bestimmten Voraussetzungen steuerlich absetzbar. Wir verraten Dir, wie Du die Hausratversicherung erfolgreich bei Deiner Steuererklärung geltend machen kannst."
 cta_text: "Gratis beraten lassen"
 cta_href: "https://calendly.com/christina-lutz-1"
