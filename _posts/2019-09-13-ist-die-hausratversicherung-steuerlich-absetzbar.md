@@ -11,7 +11,7 @@ cta_href: "https://calendly.com/christina-lutz-1"
 ---
 
 
-Du bist gerade über Deiner Steurerklärung und fragst Dich, ob Du die Hausratversicherung steuerlich absetzen kannst. In unserem Ratgeber erfährst Du, unter welchen Voraussetzungen Du die Kosten für Deine Hausratversicherung steuerlich geltend machen kannst. 
+Du bist gerade über Deiner Steurerklärung und fragst Dich, ob Du die Hausratversicherung steuerlich absetzen kannst? In unserem Ratgeber erfährst Du, unter welchen Voraussetzungen Du die Kosten für Deine Hausratversicherung steuerlich geltend machen kannst. 
 
  
 
@@ -55,7 +55,7 @@ Dein Arbeitszimmer oder Homeoffice erfüllt die o.g. Bedingungen und ist somit s
 ### Hier trägst Du die Hausratversicherung in der Steuererklärung ein 
 Je nach Art Deines Einkommens musst Du das Arbeitszimmer in Deiner Steuererklärung unterschiedlich angeben. Wir verraten Dir, wo Du die Kosten für das Finanzamt eintragen musst. Dabei spielt es keine Rolle, ob Du diese per Post oder online über die elektronische Steuererklärung (ELSTER) einreichst.  
 
-- Als **Arbeitnehmer** gibt Du die Kosten für die Hausratpolice anteilig in der Anlage N unter den Werbungskosten an 
+- Als **Arbeitnehmer** gibst Du die Kosten für die Hausratpolice anteilig in der Anlage N unter den Werbungskosten an 
 
 - Als **Selbstständiger** kannst Du die Kosten unter Betriebsausgaben in der Anlage EÜR (Einnahmeüberschussrechnung) angeben. Diese mindern somit den steuerpflichtigen Anteil Deines Gewinns 
 
