@@ -11,15 +11,18 @@ cta_href: "https://calendly.com/christina-lutz-1"
 ---
 
 
-Du bist gerade über Deiner Steurerklärung und fragst Dich ob Du die Hausratversicherung steuerlich absetzen kannst. In unserem Ratgeber erfährst Du, unter welchen Voraussetzungen Du die Kosten für Deine Hausratversicherung steuerlich geltend machen kannst. 
+Du bist gerade über Deiner Steurerklärung und fragst Dich, ob Du die Hausratversicherung steuerlich absetzen kannst. In unserem Ratgeber erfährst Du, unter welchen Voraussetzungen Du die Kosten für Deine Hausratversicherung steuerlich geltend machen kannst. 
 
  
 
 ## Kurzüberblick: Hausratversicherung steuerlich absetzen  
 
 - Du hast zu Hause ein Arbeitszimmer? Dann kannst Du die Hausratversicherung anteilig absetzen. Dies gilt sowohl für alle Mieter als Wohnungs- oder Hauseigentümer 
+
 - Bei der Hausratversicherung handelt es sich um eine Sachversicherung. Diese kannst Du steuerlich nicht pauschal bei der Steuererklärung absetzen 
+
 - Im Falle eines Homeoffice gelten strengere Vorschriften 
+
 - Um Deine „Hausrat“ in puncto Steuer geltend zu machen, musst Du beim Finanzamt einen Versicherungsnachweis vorlegen und die Größe Deines Arbeitszimmers angeben 
 
 ### Ist die Hausratversicherung komplett steuerlich absetzbar? 
@@ -35,10 +38,13 @@ Um die Hausratversicherung anteilig bei der Steuer geltend machen zu können, mu
 - Das Arbeitszimmer ist der Mittelpunkt Deiner selbstständigen Tätigkeit oder Du bist angestellter Heimarbeiter 
 - Die Nutzung Deines Arbeitszimmers erfolgt zu 90 Prozent aus beruflichen Beweggründen 
 
+
 **Darüber hinaus sind einige räumliche Vorgaben zu erfüllen:**
 
 - Dein Arbeitszimmer/ Homeoffice muss ein eigenständiges Zimmer sein. Sprich eine eingerichtete Arbeitsecke im Schlafzimmer oder eine räumliche Mitnutzung eines anderen Zimmers zu geschäftlichen Zwecken erfüllen diese Voraussetzung nicht. 
+
 - Das betroffene Zimmer muss Teil Deiner privaten Wohnung/ Haus sein 
+
 - Die Einrichtung des Arbeitszimmers ist hauptsächlich durch beruflich notwendige Gegenstände geprägt z.B. Schreibtisch, Aktenschränke, Regale etc. 
 
 ### So setzt Du die Hausratpolice von der Steuer ab 
@@ -48,7 +54,9 @@ Dein Arbeitszimmer oder Homeoffice erfüllt die o.g. Bedingungen und ist somit s
 Je nach Art Deines Einkommens musst Du das Arbeitszimmer in Deiner Steuererklärung unterschiedlich angeben. Wir verraten Dir, wo Du die Kosten für das Finanzamt eintragen musst. Dabei spielt es keine Rolle, ob Du diese per Post oder online über die elektronische Steuererklärung (ELSTER) einreichst.  
 
 - Als Arbeitnehmer gibt Du die Kosten für die Hausratpolice anteilig in der Anlage N unter den Werbungskosten an 
+
 - Als Selbstständiger kannst Du die Kosten unter Betriebsausgaben in der Anlage EÜR (Einnahmeüberschussrechnung) angeben. Diese mindern somit den steuerpflichtigen Anteil Deines Gewinns 
+
 - Als Auszubildender oder Student, welcher ein Arbeitszimmer für nahezu ausschließlich Lernzwecke nutzt, gibst Du die Kosten der Hausratversicherung anteilig in der Anlage Sonderausgaben unter Berufsausbildung an. 
 
  
@@ -60,12 +68,16 @@ Wie hoch der Anteil Deiner Hausratversicherung ausfällt, den Du absetzen kannst
 - Größe Deines Arbeitszimmers: 10 m² 
 - Jahresbeitrag Deiner Haftpflichtversicherung: 100 € 
 
+
 **Gesamtfläche Deiner Wohnung (100) x Größe Deines Arbeitszimmers (10) : Jahresbeitrag (100) = 10 € steuerlich anrechenbarer Anteil** 
 
 ### Nachweise für die Steuererklärung 
 Damit das Finanzamt diesen steuerlich anrechenbaren Anteil Deiner Hausratversicherung auch akzeptiert musst Du folgende Angaben miteinreichen 
+
 - Aufführung der Gesamtfläche Deiner Wohnung/Haus und die Größe Deines Arbeitszimmers bzw. Homeoffice 
+
 - Aufschlüsseln der Berechnung des absatzfähigen Beitrags 
+
 - Nachweis der geleisteten Versicherungsbeträge z.B. Beitragsrechnung, Kontoauszug, Versicherungsvertrag 
 
 ### Welche weiteren Versicherungen können steuerlich abgesetzt werden? 
@@ -80,10 +92,12 @@ Bei der Steuererklärung gilt der Grundsatz, dass Du Versicherungsbeiträge, wel
 - Rentenversicherung 
 - Haftpflichtversicherung 
 
+
 **Steuerlich absetzbare berufsbedingte Versicherungen**
 - Berufshaftpflichtversicherung 
 - (Berufliche) Unfallversicherung 
 - Teile der Rechtsschutzversicherung 
+
 
 Falls Du im vergangenen Jahr Beiträge für eine der o.g. berufsbedingte Versicherung gezahlt hast, kannst Du diese also in der Steuererklärung als Werbungskosten in der Anlage N (Angestellte) oder bei den Betriebskosten (Selbstständige) angeben.  
 
