@@ -96,6 +96,7 @@ Bei der Steuererklärung gilt der Grundsatz, dass Du Versicherungsbeiträge, wel
 <br>
 <br>
 **Steuerlich absetzbare berufsbedingte Versicherungen**
+
 - Berufshaftpflichtversicherung 
 - (Berufliche) Unfallversicherung 
 - Teile der Rechtsschutzversicherung 
