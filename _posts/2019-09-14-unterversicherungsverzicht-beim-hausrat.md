@@ -6,7 +6,7 @@ categories:
   - "ratgeber"
   - "versicherungen"
 image: "assets/post/Ist-die-Hausratversicherung-steuerlich-absetzbar.gif"
-excerpt: "Unterversicherungsverzicht beim Hausrat schützt Dich im Falle einer Unterversicherung davor, dass die Hausratversicherung Schäden ggf. nur anteilig übernimmt.  Wir erklären Dir in unserem Ratgeber was sich genau hinter dem Thema verbirgt."
+excerpt: "Unterversicherungsverzicht beim Hausrat schützt Dich im Falle einer Unterversicherung davor, dass die Hausratversicherung Schäden ggf. nur anteilig übernimmt.  Wir erklären Dir in unserem Ratgeber was sich darunter verbirgt."
 cta_text: "Gratis beraten lassen"
 cta_href: "https://calendly.com/christina-lutz-1"
 ---
