@@ -40,6 +40,7 @@ Wie bereits im Beispiel oben aufgezeigt, reguliert Deine Hausratversicherung im 
 Gerade im Falle eines Totalschadens lohnt sich die Klausel des Unterversicherungsverzichts beim Hausrat besonders. Aber selbst bei anteiligen Schadensfällen musst Du ggf. im Falle einer Unterversicherung tief in die Tasche greifen. Der Unterversicherungsverzicht schützt Dich davor, dass Du im schlimmsten Fall Tausende von Euro selbst zahlen musst, um den Schadensfall komplett auszugleichen. Damit ein Unterversicherungsverzicht bei der Hausratversicherung greift, sind jedoch folgenden Voraussetzungen zu erfüllen:
 
 - Die Versicherungshöhe muss mindestens die Pauschale von 650 Euro pro Quadratmeter abdecken
+
 - Deine Angaben zur Größe der Wohnung müssen korrekt angegeben sein.
 
 ### Versicherungssumme korrekt berechnen
