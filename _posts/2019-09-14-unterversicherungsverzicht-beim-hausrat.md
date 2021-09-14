@@ -52,7 +52,7 @@ Wie bereits erwähnt ist es wichtig, dass die Mindestpauschale von 650 Euro pro 
 
 - Mindestversicherungssumme pro Quadratmeter 650 Euro
 
-**Wohnfläche (100) x Mindestversicherungssumme pro m² (650) = Versicherungssumme (65.000**
+**Wohnfläche (100) x Mindestversicherungssumme pro m² (650) = Versicherungssumme (65.000)**
 
 Bitte beachte, dass die Mindestpauschale für Deinen Hausrat auch deutlich zu niedrig berechnet sein kann. Besitzt Du teures Mobiliar, sehr wertvolle Wertsachen oder ähnliches kann die Pauschale deutlich unter dem eigentlichen Wert Deines Hausrats liegen.  Wenn Du unsicher bist, nimm Dir am besten einen Wertermittlungsbogen zu Hilfe. Diesen kannst Du meist auch beim Versicherer kostenlos anfordern. In diesen kannst Du für jedes Zimmer den Wert aller Gegenstände eintragen und somit den aktuellen Wiederbeschaffungspreis schätzen.
 
