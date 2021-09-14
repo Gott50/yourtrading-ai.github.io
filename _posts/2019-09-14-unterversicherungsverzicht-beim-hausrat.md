@@ -6,14 +6,14 @@ categories:
   - "ratgeber"
   - "versicherungen"
 image: "assets/post/Ist-die-Hausratversicherung-steuerlich-absetzbar.gif"
-excerpt: "Unterversicherungsverzicht beim Hausrat schützt Dich im Falle einer Unterversicherung davor, dass die Hausratversicherung Schäden ggf. nur anteilig übernimmt.  Wir erklären dir in unserem Ratgeber was sich genau hinter dem Thema Unterversicherung verbirgt und wie Du Dich hiervor optimal absichern kannst."
+excerpt: "Unterversicherungsverzicht beim Hausrat schützt Dich im Falle einer Unterversicherung davor, dass die Hausratversicherung Schäden ggf. nur anteilig übernimmt.  Wir erklären Dir in unserem Ratgeber was sich genau hinter dem Thema Unterversicherung verbirgt und wie Du Dich hiervor optimal absichern kannst."
 cta_text: "Gratis beraten lassen"
 cta_href: "https://calendly.com/christina-lutz-1"
 ---
 
 
 
-**Unterversicherungsverzicht beim Hausrat** schützt Dich im Falle einer Unterversicherung davor, dass die Hausratversicherung Schäden ggf. nur anteilig übernimmt.  Wir erklären dir in unserem Ratgeber was sich genau hinter dem Thema Unterversicherung verbirgt und wie Du Dich hiervor optimal absichern kannst.
+**Unterversicherungsverzicht beim Hausrat** schützt Dich im Falle einer Unterversicherung davor, dass die Hausratversicherung Schäden ggf. nur anteilig übernimmt.  Wir erklären Dir in unserem Ratgeber was sich genau hinter dem Thema Unterversicherung verbirgt und wie Du Dich hiervor optimal absichern kannst.
 
 ## Unterversicherungsverzicht kurz erklärt:
 Die Klausel des Unterversicherungsverzichts bedeutet, dass Deine Hausratversicherung vertraglich vereinbart im Falle einer Unterversicherung auf die Überprüfung der Versicherungssumme verzichtet. Das bedeutet, dass Dein Versicherer Schäden auch im Falle einer Unterversicherung bis zur vereinbarten Versicherungssumme abzugsfrei ersetzt. Im Schadenfall muss somit nicht erst der Wert des Hausrats ermittelt werden, was die Schadensregulierung deutlich vereinfacht.
