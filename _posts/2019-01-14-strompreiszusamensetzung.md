@@ -4,7 +4,7 @@ date: "2019-01-14"
 categories: 
   - "strom"
   - "tipp"
-coverImage: "Wie-setzt-sich-der-Strompreis-zusammen.gif"
+image: "assets/post/Wie-setzt-sich-der-Strompreis-zusammen.gif"
 ---
 
 

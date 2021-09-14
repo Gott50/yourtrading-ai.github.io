@@ -4,7 +4,7 @@ date: "2021-09-06"
 categories: 
   - "ratgeber"
   - "versicherungen"
-coverImage: "Was-ist-eine-Ausfalldeckung.jpg"
+image: "assets/post/Was-ist-eine-Ausfalldeckung.jpg"
 excerpt: "Was ist eine Ausfalldeckung? Die Ausfalldeckung ist Teil einer guten Haftpflichtversicherung und sichert Dich vor großen finanziellen Schäden Dritter. Wozu Du diese überhuapt benötigst und wie Du Deine Schäden geltend machen kannst - Hier gibts alle Infos."
 cta_text: "Gratis beraten lassen"
 cta_href: "https://calendly.com/christina-lutz-1"

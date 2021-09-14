@@ -4,7 +4,7 @@ date: "2021-09-06"
 categories: 
   - "ratgeber"
   - "versicherungen"
-coverImage: "Zahlt-die-Hausratversicherung-bei-Eigenverschulden.jpg"
+image: "assets/post/Zahlt-die-Hausratversicherung-bei-Eigenverschulden.jpg"
 excerpt: "In welchen Fällen zahlt die Hausratversicherung und was gilt bei Eigenverschulden bzw. Fahrlässigkeit? Erfahre welche Schadensfälle durch Deine Hausratversicherung abgedeckt sind."
 cta_text: "Gratis beraten lassen"
 cta_href: "https://calendly.com/christina-lutz-1"

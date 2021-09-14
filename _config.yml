@@ -115,6 +115,7 @@ defaults:
     values:
       amp-sidebar: true
       nocta: true
+      image: /assets/WechselGott/Logo-WechselGott-Typo-Right.svg
 
   # _posts
   - scope:

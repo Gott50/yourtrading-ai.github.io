@@ -4,7 +4,7 @@ date: "2019-02-03"
 categories: 
   - "sparen"
   - "tipp"
-coverImage: "Warum-dich-Dein-Coffee-to-go-10.000-Euro-kostet.gif"
+image: "assets/post/Warum-dich-Dein-Coffee-to-go-10.000-Euro-kostet.gif"
 ---
 
 

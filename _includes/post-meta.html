@@ -1,0 +1,24 @@
+{% if post.author and site.data.authors[post.author] %}
+{% assign author = site.data.authors[post.author] %}
+{% else %}
+{% assign author = site.author %}
+{% endif %}
+<div class="post-meta">
+    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+    {{ post.date | date: date_format }}
+    <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">
+        {{ post.date | date: date_format }}
+    </time>
+    <meta itemprop="dateModified"
+          content="{% if post.last_modified_at %}{{ post.last_modified_at | date_to_xmlschema }} {% elsif post.date %}{{ post.date | date_to_xmlschema }}{% else %}{{ site.time | date_to_xmlschema }}{% endif %}"/>
+    <meta itemprop="mainEntityOfPage"
+          content="{{ post.url | replace:'index.html','' | relative_url }}"/>
+    <meta itemprop="image" content="{{ post.image | default: site.logo | relative_url }}"/>
+    <meta itemprop="author" content="{{ author.name | default: author }}"/>
+    <span itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <span itemprop="logo" itemscope itemtype="http://schema.org/ImageObject">
+        <meta itemprop="url" content="{{ site.logo | relative_url }}"/>
+      </span>
+      <meta itemprop="name" content="{{ site.title }}"/>
+    </span>
+</div>

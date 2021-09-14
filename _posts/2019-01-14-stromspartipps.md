@@ -4,7 +4,7 @@ date: "2019-01-14"
 categories: 
   - "strom"
   - "tipp"
-coverImage: "Die-besten-Stromspartipps.gif"
+image: "assets/post/Die-besten-Stromspartipps.gif"
 ---
 
 

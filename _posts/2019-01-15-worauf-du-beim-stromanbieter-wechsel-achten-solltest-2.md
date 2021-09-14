@@ -4,7 +4,7 @@ date: "2019-01-15"
 categories:
   - "strom"
   - "tipp"
-coverImage: "Worauf-Du-beim-Stromanbieter-Wechsel-achten-solltest.gif"
+image: "assets/post/Worauf-Du-beim-Stromanbieter-Wechsel-achten-solltest.gif"
 ---
 
 

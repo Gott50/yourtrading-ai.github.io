@@ -5,11 +5,11 @@
      {% include data-amp-addparams %}>
     {% endif %}
     <article itemprop="blogPost" role="article" itemscope itemtype="http://schema.org/BlogPosting">
-      {% if post.coverImage %}
-      {% assign alt = post.coverImage | split: '.' %}
+      {% if post.image %}
+      {% assign alt = post.image | split: '.' %}
       <figure>
         <amp-img height="630px" width="630px" alt="{{ alt[0] }}" layout="responsive"
-                 src='{{ post.coverImage | prepend: "/assets/WechselGott/" | relative_url }}'></amp-img>
+                 src='{{ post.image | prepend: "/assets/WechselGott/" | relative_url }}'></amp-img>
       </figure>
       {% endif %}
       <div class="article-item">
