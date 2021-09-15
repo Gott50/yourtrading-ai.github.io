@@ -83,18 +83,9 @@ Eine der bekanntesten Ausnahmen hierfür ist beispielsweise die Kfz-Versicherung
 Ein Kündigen Deiner bestehenden Versicherung ist per Brief, Fax oder auch per E-Mail möglich. Achte aber darauf, dass diese pünktlich vor der Kündigungsfrist bei Deiner Versicherung eingehen muss. Sollte es der Fall sein, dass Du kurz vor Ende der Frist kündigst, empfehlen wir Dir die Kündigung per Einwurfeinschreiben oder als Fax mit qualifiziertem Sendebericht zu verschicken. Dann hast Du einen verbindlichen Nachweis für den fristgerechten Eingang der Kündigung. Lass Dir die Kündigung auch stets vom Versicherer bestätigen. Dann bist Du auf alle Fälle abgesichert, was die fristgerechte Kündigung anbelangt.
 
 ### Versicherungswechsel wie von selbst, dank WechselGott
-Mit WechelGott wechselst Du Versicherungen ganz einfach. Deine Kfz-Versicherung oder Haftpflichtversicherung kannst Du bereits direkt in der WechselGott App bequem kündigen und zum optimalen Versicherer bzw. Tarif wechseln. Für alle anderen Versicherungen steht Dir unser geschultes Expertenteam zur Verfügung. Diese finden den optimalen neuen Tarif für kümmern sich um den kompletten Wechselvorgang. Du kannst Dich ganz entspannt zurücklehnen und bist dennoch optimal und kostengünstig abgesichert.
+Mit WechelGott wechselst Du Versicherungen ganz einfach. Deine Kfz-Versicherung oder Haftpflichtversicherung kannst Du bereits direkt in der WechselGott App bequem kündigen und zum optimalen Versicherer bzw. Tarif wechseln. Für alle anderen Versicherungen steht Dir unser geschultes Expertenteam zur Verfügung. Diese finden den optimalen neuen Tarif für Dich und kümmern sich um den kompletten Wechselvorgang. Du kannst Dich ganz entspannt zurücklehnen und bist dennoch optimal und kostengünstig abgesichert.
 Hier geht zur WechselGott-App
 Hier kannst Du einen kostenlosen Beratungstermin vereinbaren
-
-
-
-
-
-
-
-
-
 
 
 
