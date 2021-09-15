@@ -36,7 +36,7 @@ Teilweise zahlt die Hausratversicherung auch für Schäden, welche nach einem Sc
 - Rußschäden  
 - Kosten für Hotelübernachtungen, wenn Dein Heim vorübergehend unbewohnbar ist 
 
-### Zahlt die Hausratversicherung bei Eigenverschulden?
+### Wann zahlt die Hausratversicherung bei Eigenverschulden?
 Die Fälle in denen Deine „Hausrat“ den Schaden übernimmt sind recht umfangreich. Damit die Versicherung im Falle eines versicherten Schadens auch Deinen Schaden reguliert, müssen die vertraglich vereinbarten Pflichten des Versicherungsnehmers beachtet werden. Diese sind in den Versicherungsbedingungen geregelt. In diesen wird eine **Schadensregulierung durch Eigenverschulden oder Fahrlässigkeit ausgeschlossen.** 
 
 Dies bedeutet, dass die Hausratversicherung in den meisten Fällen nicht oder nicht komplett für Schäden der Wohnung eintreten wird, wenn Du als Versicherungsnehmer „grob fahrlässig gehandelt hast“.  
