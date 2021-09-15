@@ -22,6 +22,8 @@ Für diese Versicherungen bieten wir bereits einen vollautomatisierten Versicher
 
 - Haftpflichtversicherung
 
+[Zum Automatisierten Versicherungswechsel](https://app.wechselgott.com/)
+
 ### Versicherungswechsel leicht gemacht
 Für alle anderen Versicherungen stehen Dir unsere Experten mit Rat und Tat zur Verfügung.  Unsere Experten prüfen Deine bestehenden Tarife und spüren jeden Deiner zu teuren Verträge auf. Wir finden den optimalen Versicherer und kümmern uns nach Wunsch um den kompletten Wechsel.
 
@@ -51,7 +53,7 @@ Für alle anderen Versicherungen stehen Dir unsere Experten mit Rat und Tat zur 
 
 - u.v.m.
 
-Vereinbare jetzt Deinen kostenlosen Beratungstermin
+[Vereinbare jetzt Deinen kostenlosen Beratungstermin](https://calendly.com/christina-lutz-1)
 
 
 ### Ratgeber zum Thema Versicherungswechsel
@@ -73,7 +75,7 @@ Bei manchen Versicherungen bzw. Anbietern endet das Versicherungsjahr zum 31.12 
 ### Welche Kündigungsfrist ist beim Wechsel zu beachten?
 Wie bereits beschrieben können die meisten Versicherungen zum Ende des Versicherungsjahrs gekündigt werden. Oftmals gibt es jedoch eine Kündigungsfrist zu beachten. In den meisten Fällen gilt hierbei eine Frist von drei Monaten. Im Klartext bedeutet das: Deine Kündigung muss spätestens drei Monate vor Ende des Versicherungsjahres beim Versicherer eingegangen sein.
 
-** Ausnahme Kfz-Versicherung**
+**Ausnahme Kfz-Versicherung**
 
 Eine der bekanntesten Ausnahmen hierfür ist beispielsweise die Kfz-Versicherung für Dein Auto/ PKW. In den meisten Fällen ist für die Autoversicherung der Stichtag für einen Versicherungswechsel der 30. November. Du solltest hierbei jedoch nicht bis zum Stichtag warten, denn die Kündigung der Autoversicherung muss bis zu diesem Datum beim Versicherer eingegangen sein. Sende die Kündigung für Dein Auto bzw. KFZ also rechtzeitig bis Ende November ab.
 
