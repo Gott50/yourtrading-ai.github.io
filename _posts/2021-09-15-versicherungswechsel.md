@@ -5,7 +5,7 @@ categories:
   - "ratgeber"
   - "versicherungen"
 image: "assets/post/Zahlt-die-Hausratversicherung-bei-Eigenverschulden.jpg"
-excerpt: "Was gilt es beim Versicherungswechsel z.B. bei der Kfz-Versicherung zu beachten? In unserem Ratgeber erhältst du viele Tipps rund um den reibungslosen Versicherungswechsel."
+excerpt: "Was gilt es beim Versicherungswechsel z.B. bei der Kfz-Versicherung zu beachten? In unserem Ratgeber erhältst du viele Tipps rund um den reibungslosen Versicherungswechsel, Kündigungsfristen und vieles mehr."
 cta_text: "Gratis beraten lassen"
 cta_href: "https://calendly.com/christina-lutz-1"
 ---
