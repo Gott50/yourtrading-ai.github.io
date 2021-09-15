@@ -41,7 +41,7 @@ Die Fälle in denen Deine „Hausrat“ den Schaden übernimmt sind recht umfang
 
 Dies bedeutet, dass die Hausratversicherung in den meisten Fällen nicht oder nicht komplett für Schäden der Wohnung eintreten wird, wenn Du als Versicherungsnehmer „grob fahrlässig gehandelt hast“.  
 
-### Beispiele für Eigenverschulden bzw. grobe Fahrlässigkeit
+### Beispiele für Eigenverschulden bzw. grobe Fahrlässigkeit bei der Hausratversicherung
 - Eine grobe Fahrlässigkeit oder Eigenverschulden liegt vor, wenn Du z.B. die Haustüre Deiner Wohnung nicht abgeschlossen hast und sich nun ein Einbrecher Zutritt zu Deiner Wohnung verschafft und beispielsweise Wertsachen stiehlt.  
 - Du lässt beispielsweise das Dachliegefenster Deiner Wohnung bei Regen geöffnet und infolgedessen entsteht durch eintretendes Wasser ein Schaden an Deiner Einrichtung. Dieser Schaden wird nicht von Deiner Versicherung gezahlt.
 - Stell Dir ein Kind vor, dass beim Baden in der Badewanne das Badezimmer überflutet. Hier wird die Hausratversicherung die Kosten für den entstandenen Wasserschaden nicht an den Versicherungsnehmer zahlen. Das Verletzen der Aufsichtspflicht hätte durch die Eltern vereitelt werden können. 
@@ -53,7 +53,7 @@ Der Versicherungsschutz bzw. dessen Umfang ist in den Versicherungsbedingungen m
 
 Die Hausratversicherung übernimmt nur die vereinbarte Versicherungssumme. Deshalb ist es sehr wichtig, den richtigen Wert seines eigenen Hausrats beim Abschluss der Versicherung anzugeben. Nur so hat man den optimalen Versicherungsschutz und vermeidet eine Unterversicherung. Es droht hier die Gefahr im Schadensfall auf Kosten sitzen zu bleiben, da der Versicherungsschutz zu niedrig gewählt wurde. Die Stiftung Warentest rät von der Höhe 650 Euro pro Quadratmeter, als Versicherungssumme anzusetzen. Dies gilt jedoch nur für Wohnungen bzw. Häuser ohne luxuriöse Innenausstattung.  Eine Überversicherung des eigenen Hausrats ist aufgrund zu teurer Beiträge ebenfalls nicht empfehlenswert. Du solltest also bei Abschluss der Police sicherstellen, dass die Beiträge nicht zu hoch angesetzt werden. 
 
-### Was gilt es beim Melden eines Schadens mit möglichen Eigenverschulden zu beachten?
+### Was gilt es beim Melden eines Schadens mit möglichen Eigenverschulden bei der Hausratverischerung zu beachten?
 Solltest Du Schäden Deinem Versicherer melden wollen, bei denen möglicherweise Eigenverschulden vorliegt, empfehlen wir Dir in jedem Fall den Schadensfall möglichst wahrheitsgemäß und sachlich zu schildern. Stellst Du den Schaden fälschlicherweise als versichert dar, wird dies meist schnell durch einen beauftragten Gutachter widerlegt. In diesem Fall handelt es sich unter Umständen sogar um einen Straftatbestand. Dies ist kein Kavaliersdelikt. 
  
 ### Hast Du eine Frage zum Thema Hausratversicherung?
