@@ -25,7 +25,7 @@ Du bist gerade über Deiner Steurerklärung und fragst Dich, ob die Hausratversi
 
 - Um Deine „Hausrat“ in puncto Steuer geltend zu machen, musst Du beim Finanzamt einen Versicherungsnachweis vorlegen und die Größe Deines Arbeitszimmers angeben 
 
-### Ist die Hausratversicherung steuerlich absetzbar? 
+### Ist die Hausratversicherung steuerlich pauschal absetzbar? 
 Die Hausratversicherung gehört zur Kategorie der Sachversicherungen. Sachversicherungen schützen bestimmte Sachwerte, wie in diesem Fall Deinen Hausrat in einer bestimmten Höhe. Beiträge aus Sachversicherungen und somit auch im Falle der Hausratversicherung kannst Du daher leider nicht pauschal bei der Einkommenssteuererklärung absetzen. Unter einigen Voraussetzungen ist es aber dennoch möglich Deine Versicherungsbeiträge anteilig bei der Steuer abzusetzen. 
 
 ### Unter welchen Bedingungen ist die Hausratversicherung steuerlich absetzbar? 
