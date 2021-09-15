@@ -11,52 +11,89 @@ cta_href: "https://calendly.com/christina-lutz-1"
 ---
 
 
-Was und wann zahlt die Hausratversicherung? Gilt dies auch bei Eigenverschulden? Was wird überhaupt als Selbstverschulden gewertet? Welcher Schaden wird vom Versicherer der Hausrat überhaupt übernommen? Mit unserem Ratgeber möchten wir Dir gerne etwas Überblick über die mögliche Absicherung der Hausratversicherung verschaffen. 
 
-## Die Hausratversicherung kurz erklärt
-Die Hausratversicherung ist eine Sachversicherung. Sie versichert unter anderem alle Einrichtungsgegenstände wie Möbel, Fußböden aber auch Gebrauchs- und Verbrauchsgegenstände eines Privathaushalts (Hausrat). 
+Der **Versicherungswechsel** war bisher mit viel Aufwand verbunden. Das Ziel von WechselGott ist es Dir den einfachsten Versicherungswechsel Deutschlands anzubieten. Wir nehmen Dir mit unserem Service einen Großteil des Aufwandes beim Versicherungswechsel z.B. im Bereich KFZ, Haftpflicht und vielen weiteren Sachversicherungen ab.
 
-### In welchen Fällen greift die Hausrat?
-Die Hausratversicherung schützt Dein Wohnungs- oder Hausinventar und einen Großteil Deines Privateigentums. Der Schutz umfasst Diebstahl, Zerstörung und Beschädigung. Um die Leistungen Deiner Hausratversicherung in Anspruch nehmen zu können, muss ein konkreter Schaden aufgrund einer im Versicherungsumfang definierten Gefahr entstanden sein.
+### Automatisierter Versicherungswechsel
+Für einige Versicherungen bieten wir bereits einen vollautomatischen Wechselservice an. Mühsames Kündigen des bisherigen Versicherers entfällt hierbei genauso wie das Finden des optimalen Anbieters und Tarifs.
+Für diese Versicherungen bieten wir bereits einen vollautomatisierten Versicherungswechsel in der WechselGott App  an:
 
-### In diesen Fällen zahlt Deine Hausratversicherung:
+- Kfz-Versicherung
 
-- Feuer oder Brand
-- Schäden durch Leitungswasser (z.B. nach einem Rohrbruch)
-- Schäden durch Sturm und Hagel
-- Gerätedefekte durch Überspannung und Blitzeinschlag
-- Einbruch oder Diebstahl 
-- Raub 
-- Vandalismus 
-- Explosion 
+- Haftpflichtversicherung
+
+### Versicherungswechsel leicht gemacht
+Für alle anderen Versicherungen stehen Dir unsere Experten mit Rat und Tat zur Verfügung.  Unsere Experten prüfen Deine bestehenden Tarife und spüren jeden Deiner zu teuren Verträge auf. Wir finden den optimalen Versicherer und kümmern uns nach Wunsch um den kompletten Wechsel.
+
+**Unsere Berater unterstützen Dich u.a. für folgende Versicherungen:**
+
+- Hausrat-Versicherung
+
+- Risikolebensversicherung
+
+- Rechtsschutzversicherung
+
+- Auslandskrankenversicherung
+
+- Reiserücktrittsversicherung
+
+- Berufsunfähigkeitsversicherung
+
+- Grundfähigkeitsversicherung
+
+- Gesetzliche Krankenversicherung
+
+- Private Krankenversicherung
+
+- Unfallversicherung
+
+- Zahnzusatzversicherung
+
+- u.v.m.
+
+Vereinbare jetzt Deinen kostenlosen Beratungstermin
 
 
-Teilweise zahlt die Hausratversicherung auch für Schäden, welche nach einem Schaden entstanden sind, z.B. 
-- Schäden durch Löschwasser eines Feuerwehreinsatzes 
-- Rußschäden  
-- Kosten für Hotelübernachtungen, wenn Dein Heim vorübergehend unbewohnbar ist 
+### Ratgeber zum Thema Versicherungswechsel
+In unserem Ratgeber zum Thema Versicherungswechsel stellen wir Dir einige Tipps für das reibungslose Wechseln Deiner Versicherung zur Verfügung. Damit steht einem erfolgreichen Wechsel zum neuen Anbieter bzw. Tarif nichts mehr im Weg.
 
-### Wann zahlt die Hausratversicherung bei Eigenverschulden?
-Die Fälle in denen Deine „Hausrat“ den Schaden übernimmt sind recht umfangreich. Damit die Versicherung im Falle eines versicherten Schadens auch Deinen Schaden reguliert, müssen die vertraglich vereinbarten Pflichten des Versicherungsnehmers beachtet werden. Diese sind in den Versicherungsbedingungen geregelt. In diesen wird eine **Schadensregulierung durch Eigenverschulden oder Fahrlässigkeit ausgeschlossen.** 
+### Lohnt sich ein Versicherungswechsel überhaupt
+Bei Versicherungsverträgen lohnt es sich durchaus diese regelmäßig oder sogar jährlich zu überprüfen bzw. wechseln. Seine Versicherungen einmal abzuschließen und dann im Ordner verstauben zu lassen, ist definitiv nicht ratsam. Die Anbieter passen ihre Tarife immer wieder an neue Gegebenheiten an und in einigen Bereichen gibt es sogar eine Art Wettbewerb, um die besten Versicherungsbedingungen und neuen Angebote. Ein neuer Vertrag muss hierbei nicht einmal teurer sein. Oftmals liegt im Versicherungswechsel sogar ein hohes Sparpotenzial. Dieses verschenkst Du, wenn Du Dich nicht um das Wechseln Deiner Versicherungen kümmerst. Ein Wechsel zum neuen Anbieter spart manchmal Hundert Euro oder gar noch mehr an Beiträgen pro Jahr ein.
 
-Dies bedeutet, dass die Hausratversicherung in den meisten Fällen nicht oder nicht komplett für Schäden der Wohnung eintreten wird, wenn Du als Versicherungsnehmer „grob fahrlässig gehandelt hast“.  
+### Warum solltest Du die Versicherung wechseln
+Für einen Versicherungswechsel sprechen verschiedene Gründe. Häufig ist die Kostenersparnis der Hauptbeweggrund die Versicherung zu wechseln. Teilweise ist auch eine Beitragserhöhung des bisherigen Anbieters ein Grund. Der Beitrag für die Autoversicherung steigt beispielsweise nach einem Schaden oder einem Fahrzeugwechsel an und wird dadurch deutlich teurer.  Oftmals bietet ein neuer Anbieter auch umfangreichere Leistungen oder einen besseren Versicherungsschutz als der bisherige Versicherer oder bringt ein besseres Serviceangebot mit sich. Wenn Du einen Wechsel in Betracht ziehen solltest, ist es wichtig zu überprüfen, dass der neue Versicherer bzw. Tarif die Punkte, die Dir wichtig sind auch weiterhin erfüllt. Mach Dir also Gedanken darüber, welche Punkte der neue Versicherer mit sich bringen sollte und ob diese vom Anbieter auch erfüllt werden.
 
-### Beispiele für Eigenverschulden bzw. grobe Fahrlässigkeit bei der Hausratversicherung
-- Eine grobe Fahrlässigkeit oder Eigenverschulden liegt vor, wenn Du z.B. die Haustüre Deiner Wohnung nicht abgeschlossen hast und sich nun ein Einbrecher Zutritt zu Deiner Wohnung verschafft und beispielsweise Wertsachen stiehlt.  
-- Du lässt beispielsweise das Dachliegefenster Deiner Wohnung bei Regen geöffnet und infolgedessen entsteht durch eintretendes Wasser ein Schaden an Deiner Einrichtung. Dieser Schaden wird nicht von Deiner Versicherung gezahlt.
-- Stell Dir ein Kind vor, dass beim Baden in der Badewanne das Badezimmer überflutet. Hier wird die Hausratversicherung die Kosten für den entstandenen Wasserschaden nicht an den Versicherungsnehmer zahlen. Das Verletzen der Aufsichtspflicht hätte durch die Eltern vereitelt werden können. 
+### Wann ist ein Versicherungswechsel möglich
+Für die meisten Versicherungen kann ein Wechsel des Versicherers zum Ende des Versicherungsjahres bzw. der Vertragslaufzeit erfolgen. Das Versicherungsjahr endet für gewöhnlich zum erstmaligen Beginn der Versicherung. Das heißt: Ist Dein Vertrag beispielsweise am 01.06. gestartet, dann ist er immer im darauffolgenden Jahr zum 01.06. kündbar. Dies gilt in der Regel für die Hausratversicherung, Haftpflichtversicherung, Rechtsschutzversicherung und viele mehr.
 
-### Wann zahlt die Hausratversicherung?
-Die Frage "Zahlt die Hausratversicherung bei Eigenverschulden" haben wir bereits geklärt, doch wann übernimmt die Hausrat einen Schaden? Die Hausratversicherung schützt Gegenstände Deines Haushalts/ Wohnung, die nicht fester Bestandteil des Gebäudes sind. Darunter fallen alle Gegenstände und Einrichtungen wie z.B. Dein Sofa, Dein PC oder auch Kleidung. Alles, was ein fester Bestandteil des Hauses ist, wird grundsätzlich nicht über die Hausratversicherung abgedeckt. Diese müssen über eine Wohngebäudeversicherung versichert werden. 
+**Beachte:** 
 
-Der Versicherungsschutz bzw. dessen Umfang ist in den Versicherungsbedingungen mit dem Versicherer geregelt. Du als Versicherungsnehmer solltest diese immer aufmerksam prüfen und checken, ob alle für Dich wichtigen Aspekte mit abgedeckt sind, damit Deine Versicherung im Falle von möglichen Schäden auch zahlt. Der Standardschutz jeder Versicherung für Hausrat greift bei Schäden von Sturm und Hagel, Feuer, Blitzschlag, undichten Wasserleitungen, Einbruchdiebstahl oder Vandalismus. Alles darüber hinaus kann ggf. durch Zusatzversicherungen mitversichert werden. Ein Beispiel für eine Zusatzversicherung sind Elementarschäden durch Überschwemmungen oder ähnliches. 
+Bei manchen Versicherungen bzw. Anbietern endet das Versicherungsjahr zum 31.12 des Jahres. Du kannst dies auch jederzeit bei Deiner Versicherung erfragen oder im Versicherungsschein nachlesen.
 
-Die Hausratversicherung übernimmt nur die vereinbarte Versicherungssumme. Deshalb ist es sehr wichtig, den richtigen Wert seines eigenen Hausrats beim Abschluss der Versicherung anzugeben. Nur so hat man den optimalen Versicherungsschutz und vermeidet eine Unterversicherung. Es droht hier die Gefahr im Schadensfall auf Kosten sitzen zu bleiben, da der Versicherungsschutz zu niedrig gewählt wurde. Die Stiftung Warentest rät von der Höhe 650 Euro pro Quadratmeter, als Versicherungssumme anzusetzen. Dies gilt jedoch nur für Wohnungen bzw. Häuser ohne luxuriöse Innenausstattung.  Eine Überversicherung des eigenen Hausrats ist aufgrund zu teurer Beiträge ebenfalls nicht empfehlenswert. Du solltest also bei Abschluss der Police sicherstellen, dass die Beiträge nicht zu hoch angesetzt werden. 
+### Welche Kündigungsfrist ist beim Wechsel zu beachten?
+Wie bereits beschrieben können die meisten Versicherungen zum Ende des Versicherungsjahrs gekündigt werden. Oftmals gibt es jedoch eine Kündigungsfrist zu beachten. In den meisten Fällen gilt hierbei eine Frist von drei Monaten. Im Klartext bedeutet das: Deine Kündigung muss spätestens drei Monate vor Ende des Versicherungsjahres beim Versicherer eingegangen sein.
 
-### Was gilt es beim Melden eines Schadens mit möglichen Eigenverschulden bei der Hausratverischerung zu beachten?
-Solltest Du Schäden Deinem Versicherer melden wollen, bei denen möglicherweise Eigenverschulden vorliegt, empfehlen wir Dir in jedem Fall den Schadensfall möglichst wahrheitsgemäß und sachlich zu schildern. Stellst Du den Schaden fälschlicherweise als versichert dar, wird dies meist schnell durch einen beauftragten Gutachter widerlegt. In diesem Fall handelt es sich unter Umständen sogar um einen Straftatbestand. Dies ist kein Kavaliersdelikt. 
- 
-### Hast Du eine Frage zum Thema Hausratversicherung?
-Wir hoffen unser Ratgeber konnte Dir bereits einen Großteil der Frage **"Zahlt die Hausratversicherung bei Eigenverschulden"** beantworten. Falls Du weitere Fragen rund um das Thema haben solltest, sprich gerne kostenfrei und unverbindlich mit einem unserer Versicherungsexperten. Vereinbare einfach einen Telefon- oder Termin zur Videoberatung. Wir freuen uns Dich kennenzulernen und stehen Dir gerne jederzeit für Fragen zum Thema Versicherungen zur Verfügung.
+** Ausnahme Kfz-Versicherung**
+
+Eine der bekanntesten Ausnahmen hierfür ist beispielsweise die Kfz-Versicherung für Dein Auto/ PKW. In den meisten Fällen ist für die Autoversicherung der Stichtag für einen Versicherungswechsel der 30. November. Du solltest hierbei jedoch nicht bis zum Stichtag warten, denn die Kündigung der Autoversicherung muss bis zu diesem Datum beim Versicherer eingegangen sein. Sende die Kündigung für Dein Auto bzw. KFZ also rechtzeitig bis Ende November ab.
+
+### So kannst Du Deine Versicherung kündigen?
+Ein Kündigen Deiner bestehenden Versicherung ist per Brief, Fax oder auch per E-Mail möglich. Achte aber darauf, dass diese pünktlich vor der Kündigungsfrist bei Deiner Versicherung eingehen muss. Sollte es der Fall sein, dass Du kurz vor Ende der Frist kündigst, empfehlen wir Dir die Kündigung per Einwurfeinschreiben oder als Fax mit qualifiziertem Sendebericht zu verschicken. Dann hast Du einen verbindlichen Nachweis für den fristgerechten Eingang der Kündigung. Lass Dir die Kündigung auch stets vom Versicherer bestätigen. Dann bist Du auf alle Fälle abgesichert, was die fristgerechte Kündigung anbelangt.
+
+### Versicherungswechsel wie von selbst, dank WechselGott
+Mit WechelGott wechselst Du Versicherungen ganz einfach. Deine Kfz-Versicherung oder Haftpflichtversicherung kannst Du bereits direkt in der WechselGott App bequem kündigen und zum optimalen Versicherer bzw. Tarif wechseln. Für alle anderen Versicherungen steht Dir unser geschultes Expertenteam zur Verfügung. Diese finden den optimalen neuen Tarif für kümmern sich um den kompletten Wechselvorgang. Du kannst Dich ganz entspannt zurücklehnen und bist dennoch optimal und kostengünstig abgesichert.
+Hier geht zur WechselGott-App
+Hier kannst Du einen kostenlosen Beratungstermin vereinbaren
+
+
+
+
+
+
+
+
+
+
+
 
 <br>
