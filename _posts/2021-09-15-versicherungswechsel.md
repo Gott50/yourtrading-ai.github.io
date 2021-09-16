@@ -70,7 +70,7 @@ Für die meisten Versicherungen kann ein Wechsel des Versicherers zum Ende des V
 
 **Beachte:** 
 
-Bei manchen Versicherungen bzw. Anbietern endet das Versicherungsjahr zum 31.12 des Jahres. Du kannst dies auch jederzeit bei Deiner Versicherung erfragen oder im Versicherungsschein nachlesen.
+Bei manchen Versicherungen bzw. Anbietern endet das Versicherungsjahr zum 31.12. des Jahres. Du kannst dies auch jederzeit bei Deiner Versicherung erfragen oder im Versicherungsschein nachlesen.
 
 ### Welche Kündigungsfrist ist beim Wechsel zu beachten?
 Wie bereits beschrieben können die meisten Versicherungen zum Ende des Versicherungsjahrs gekündigt werden. Oftmals gibt es jedoch eine Kündigungsfrist zu beachten. In den meisten Fällen gilt hierbei eine Frist von drei Monaten. Im Klartext bedeutet das: Deine Kündigung muss spätestens drei Monate vor Ende des Versicherungsjahres beim Versicherer eingegangen sein.
@@ -83,10 +83,7 @@ Eine der bekanntesten Ausnahmen hierfür ist beispielsweise die Kfz-Versicherung
 Ein Kündigen Deiner bestehenden Versicherung ist per Brief, Fax oder auch per E-Mail möglich. Achte aber darauf, dass diese pünktlich vor der Kündigungsfrist bei Deiner Versicherung eingehen muss. Sollte es der Fall sein, dass Du kurz vor Ende der Frist kündigst, empfehlen wir Dir die Kündigung per Einwurfeinschreiben oder als Fax mit qualifiziertem Sendebericht zu verschicken. Dann hast Du einen verbindlichen Nachweis für den fristgerechten Eingang der Kündigung. Lass Dir die Kündigung auch stets vom Versicherer bestätigen. Dann bist Du auf alle Fälle abgesichert, was die fristgerechte Kündigung anbelangt.
 
 ### Versicherungswechsel wie von selbst, dank WechselGott
-Mit WechelGott wechselst Du Versicherungen ganz einfach. Deine Kfz-Versicherung oder Haftpflichtversicherung kannst Du bereits direkt in der WechselGott App bequem kündigen und zum optimalen Versicherer bzw. Tarif wechseln. Für alle anderen Versicherungen steht Dir unser geschultes Expertenteam zur Verfügung. Diese finden den optimalen neuen Tarif für Dich und kümmern sich um den kompletten Wechselvorgang. Du kannst Dich ganz entspannt zurücklehnen und bist dennoch optimal und kostengünstig abgesichert.
-Hier geht zur WechselGott-App
-Hier kannst Du einen kostenlosen Beratungstermin vereinbaren
-
+Mit WechelGott wechselst Du Versicherungen ganz einfach. Deine Kfz-Versicherung oder Haftpflichtversicherung kannst Du bereits direkt in der [WechselGott App](https://app.wechselgott.com/) bequem kündigen und zum optimalen Versicherer bzw. Tarif wechseln. Für alle anderen Versicherungen steht Dir unser geschultes Expertenteam zur Verfügung. Diese finden den optimalen neuen Tarif für Dich und kümmern sich um den kompletten Wechselvorgang. Du kannst Dich ganz entspannt zurücklehnen und bist dennoch optimal und kostengünstig abgesichert.
 
 
 <br>
