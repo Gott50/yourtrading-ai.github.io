@@ -11,6 +11,8 @@
   amazon_deal: True
 - path: angebot
   cta_href: https://wechselgott.page.link/H2Lo
+- path: gutschein-maerkische
+  cta_href: https://wechselgott.page.link/HGNAZK
 - path: gutschein-mittweida
   cta_href: https://wechselgott.page.link/MIWAZK
 - path: los
