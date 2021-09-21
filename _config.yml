@@ -60,15 +60,15 @@ analytics:
     tracking_id: UA-132798592-1
   facebookpixel:
     tracking_id: 669247813944831
-  gtags:
-    - GTM-P8V4Q3S
-    - GTM-P3VSM78
-
+#  gtags:
+#    - GTM-P8V4Q3S
+#    - GTM-P3VSM78
+#
 # Experiments
 experiments:
-  experimentName: Startseiten-Experiment-Ersparnis
-  gaPropertyID: UA-132798592-1
-  gaExperimentID: CW8M_WYZSXCjiP1CK4dDT
+#  experimentName: Startseiten-Experiment-Ersparnis
+#  gaPropertyID: UA-132798592-1
+#  gaExperimentID: CW8M_WYZSXCjiP1CK4dDT
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
