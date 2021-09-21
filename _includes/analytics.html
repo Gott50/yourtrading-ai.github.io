@@ -1,3 +1,12 @@
+{% if site.analytics.gtag %}
+<!-- Google Tag Manager (noscript) -->
+<noscript>
+  <iframe src="https://www.googletagmanager.com/ns.html?id={{ site.analytics.gtag }}"
+          height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
+{% endif %}
+
 {% if site.analytics.facebookpixel.tracking_id%}
 <!-- Facebook Pixel Analytics tracking -->
 <amp-analytics data-block-on-consent-purposes="marketing" type="facebookpixel" id="facebook-pixel">
