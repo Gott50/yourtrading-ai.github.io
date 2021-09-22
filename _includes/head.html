@@ -73,7 +73,7 @@
   <script async custom-element="amp-video" src="https://cdn.ampproject.org/v0/amp-video-0.1.js"></script>
   {% endif %}
 
-  {% if site.analytics.gtag %}
+  {% if site.custom_scripts.gtag %}
   <!-- Google Tag Manager -->
   <script>(function (w, d, s, l, i) {
     w[l] = w[l] || [];
@@ -87,7 +87,7 @@
     j.src =
             'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
     f.parentNode.insertBefore(j, f);
-  })(window, document, 'script', 'dataLayer', '{{ site.analytics.gtag }}');</script>
+  })(window, document, 'script', 'dataLayer', '{{ site.custom_scripts.gtag }}');</script>
   <!-- End Google Tag Manager -->
   {% endif %}
 

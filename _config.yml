@@ -49,13 +49,14 @@ static_email:
 # Consent
 consent: true
 
-# Analytics
+custom_scripts:
+  gtag: GTM-P8V4Q3S
+
+# AMP-Analytics
 analytics:
   provider: true # false (default), "google", "google-universal", "custom"
   googleadwords:
     tracking_id: AW-756554075
-  gtag:
-    tracking_id: GTM-P8V4Q3S
   googleanalytics:
     tracking_id: UA-132798592-1
   facebookpixel:
