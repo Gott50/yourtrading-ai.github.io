@@ -17,8 +17,9 @@ Veranstalter der Aktion ist die WechselGott GmbH, Spinnereistr. 7 04179 Leipzig 
 
 ### Teilnahme
 
+{% include set-partner-data %}
 Der Aktionsteilnehmer nimmt automatisch an dieser Werbeaktion teil, wenn er sich bei WechselGott über den Link mit der
-URL http://wechselgott.com/amazon-deal anmeldet, WechselGott das Maklermandat erteilt, das Maklermandat von WechselGott
+URL [{{partner | absolute_url}}]({{partner | absolute_url}}) anmeldet, WechselGott das Maklermandat erteilt, das Maklermandat von WechselGott
 akzeptiert wird, mindestens ein Vertrag in der App optimiert wurde und er die Teilnahmebedingungen erfüllt. Das
 Maklermandat muss für die ausgewählten Versicherungen mindestens 12 Monate bestehen. Sollte der Teilnehmer dieses
 frühzeitig kündigen, so ist es WechselGott vorbehalten den Aktionsgegenstand zurückzuverlangen oder dem Teilnehmer in
