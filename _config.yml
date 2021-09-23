@@ -52,17 +52,17 @@ static_email:
 consent: true
 
 custom_scripts:
-  gtag: GTM-P8V4Q3S
+#  gtag: GTM-P8V4Q3S
 
 # AMP-Analytics
 analytics:
-  provider: false # false (default), "google", "google-universal", "custom"
-#  googleadwords:
-#    tracking_id: AW-756554075
-#  googleanalytics:
-#    tracking_id: UA-132798592-1
-#  facebookpixel:
-#    tracking_id: 669247813944831
+  provider: true # false (default), "google", "google-universal", "custom"
+  googleadwords:
+    tracking_id: AW-756554075
+  googleanalytics:
+    tracking_id: UA-132798592-1
+  facebookpixel:
+    tracking_id: 669247813944831
 #  gtags:
 #    - GTM-P8V4Q3S
 
