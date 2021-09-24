@@ -60,12 +60,14 @@
       <button
         class="choiceButton"
         on="tap:siteConsent.accept(purposeConsentDefault=true)"
+        id="consent-all"
       >
         Akzeptieren
       </button>
       <button
         class="choiceButton stroke"
         on="tap:siteConsent.accept"
+        id="consent-selected"
       >
         Auswahl erlauben
       </button>
@@ -75,4 +77,59 @@
     <button on="tap:siteConsent.prompt">🍪</button>
   </div>
 </amp-consent>
+
+{% if site.custom_scripts.gtag %}
+<!-- Google Tag Manager -->
+<script>
+  function analytics() {
+    localStorage.setItem("analytics", true);
+    (function (w, d, s, l, i) {
+      w[l] = w[l] || [];
+      w[l].push({
+        'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+      });
+      var f = d.getElementsByTagName(s)[0],
+              j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+      j.async = true;
+      j.src =
+              'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+      f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', '{{ site.custom_scripts.gtag }}');
+  }
+
+  if (JSON.parse(localStorage.getItem("analytics"))) {
+    analytics()
+  }
+
+  let marketing = false;
+
+  function updateValue(e) {
+    marketing = e.target.checked;
+  }
+
+  function consentSelected() {
+    if (marketing) {
+      analytics();
+    } else {
+      localStorage.setItem("analytics", false);
+    }
+  }
+
+  document.getElementById('consent-marketing').addEventListener('change', updateValue);
+  document.getElementById('consent-all').addEventListener('click', analytics);
+  document.getElementById('consent-selected').addEventListener('click', consentSelected);
+
+</script>
+
+<amp-script width="0" height="0" script="hello-world">
+</amp-script>
+
+<script id="hello-world" type="text/plain" target="amp-script">
+  localStorage.setItem("analytics", true)
+</script>
+
+<!-- End Google Tag Manager -->
+{% endif %}
+
 {% endif %}
