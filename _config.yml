@@ -170,7 +170,7 @@ exclude:
   - "*.markdown"
   - "*.gemspec"
   - "*.sh"
-  - "/*.js"
+  - "*/Tarifrechner-Dateien"
 
 plugins:
  - jekyll-feed
