@@ -11,12 +11,12 @@ cta_href: "https://calendly.com/christina-lutz-1"
 ---
 
 
-Was und wann zahlt die Hausratversicherung? Gilt dies auch bei Eigenverschulden? Was wird überhaupt als Selbstverschulden gewertet? Welcher Schaden wird vom Versicherer der Hausrat überhaupt übernommen? Mit unserem Ratgeber möchten wir Dir gerne etwas Überblick über die mögliche Absicherung der Hausratversicherung verschaffen. 
+Was und wann zahlt die Hausratversicherung bei Eigenverschulden? Was wird überhaupt als Selbstverschulden gewertet? Welcher Schaden wird vom Versicherer der Hausrat überhaupt übernommen? Mit unserem Ratgeber möchten wir Dir gerne etwas Überblick über die mögliche Absicherung der Hausratversicherung verschaffen. 
 
 ## Die Hausratversicherung kurz erklärt
 Die Hausratversicherung ist eine Sachversicherung. Sie versichert unter anderem alle Einrichtungsgegenstände wie Möbel, Fußböden aber auch Gebrauchs- und Verbrauchsgegenstände eines Privathaushalts (Hausrat). 
 
-### In welchen Fällen greift die Hausrat?
+### In welchen Fällen greift die Hausratpolice?
 Die Hausratversicherung schützt Dein Wohnungs- oder Hausinventar und einen Großteil Deines Privateigentums. Der Schutz umfasst Diebstahl, Zerstörung und Beschädigung. Um die Leistungen Deiner Hausratversicherung in Anspruch nehmen zu können, muss ein konkreter Schaden aufgrund einer im Versicherungsumfang definierten Gefahr entstanden sein.
 
 ### In diesen Fällen zahlt Deine Hausratversicherung:
@@ -36,7 +36,7 @@ Teilweise zahlt die Hausratversicherung auch für Schäden, welche nach einem Sc
 - Rußschäden  
 - Kosten für Hotelübernachtungen, wenn Dein Heim vorübergehend unbewohnbar ist 
 
-### Wann zahlt die Hausratversicherung bei Eigenverschulden?
+### Zahlt die Hausratversicherung bei Eigenverschulden?
 Die Fälle in denen Deine „Hausrat“ den Schaden übernimmt sind recht umfangreich. Damit die Versicherung im Falle eines versicherten Schadens auch Deinen Schaden reguliert, müssen die vertraglich vereinbarten Pflichten des Versicherungsnehmers beachtet werden. Diese sind in den Versicherungsbedingungen geregelt. In diesen wird eine **Schadensregulierung durch Eigenverschulden oder Fahrlässigkeit ausgeschlossen.** 
 
 Dies bedeutet, dass die Hausratversicherung in den meisten Fällen nicht oder nicht komplett für Schäden der Wohnung eintreten wird, wenn Du als Versicherungsnehmer „grob fahrlässig gehandelt hast“.  
@@ -53,7 +53,7 @@ Der Versicherungsschutz bzw. dessen Umfang ist in den Versicherungsbedingungen m
 
 Die Hausratversicherung übernimmt nur die vereinbarte Versicherungssumme. Deshalb ist es sehr wichtig, den richtigen Wert seines eigenen Hausrats beim Abschluss der Versicherung anzugeben. Nur so hat man den optimalen Versicherungsschutz und vermeidet eine Unterversicherung. Es droht hier die Gefahr im Schadensfall auf Kosten sitzen zu bleiben, da der Versicherungsschutz zu niedrig gewählt wurde. Die Stiftung Warentest rät von der Höhe 650 Euro pro Quadratmeter, als Versicherungssumme anzusetzen. Dies gilt jedoch nur für Wohnungen bzw. Häuser ohne luxuriöse Innenausstattung.  Eine Überversicherung des eigenen Hausrats ist aufgrund zu teurer Beiträge ebenfalls nicht empfehlenswert. Du solltest also bei Abschluss der Police sicherstellen, dass die Beiträge nicht zu hoch angesetzt werden. 
 
-### Was gilt es beim Melden eines Schadens mit möglichen Eigenverschulden bei der Hausratverischerung zu beachten?
+### Was gilt es beim Melden eines Schadens mit möglichen Eigenverschulden bei der "Hausrat" zu beachten?
 Solltest Du Schäden Deinem Versicherer melden wollen, bei denen möglicherweise Eigenverschulden vorliegt, empfehlen wir Dir in jedem Fall den Schadensfall möglichst wahrheitsgemäß und sachlich zu schildern. Stellst Du den Schaden fälschlicherweise als versichert dar, wird dies meist schnell durch einen beauftragten Gutachter widerlegt. In diesem Fall handelt es sich unter Umständen sogar um einen Straftatbestand. Dies ist kein Kavaliersdelikt. 
  
 ### Hast Du eine Frage zum Thema Hausratversicherung?
