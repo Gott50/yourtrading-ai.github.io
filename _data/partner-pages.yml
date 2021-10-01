@@ -17,6 +17,9 @@
 - path: gutschein-mittweida
   cta_href: https://wechselgott.page.link/MIWAZK
   amazon_deal: True
+- path: gutschein-vb-hm
+  cta_href: https://wechselgott.page.link/DLRAZK
+  amazon_deal: True
 - path: los
   cta_href: https://wechselgott.page.link/VBMIW_P_1
 - path: maerkische-bank
