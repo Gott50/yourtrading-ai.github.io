@@ -1,6 +1,7 @@
 <!-- Start Navbar -->
 <header class="ampstart-headerbar">
   {% include set-partner-data %}
+  {% include set-cta-data %}
 
   {% if site.logo %}
   <a class="ampstart-headerbar-logo" href="{{ '#' | prepend: partner | relative_url }}" itemprop="url" {% include data-amp-addparams %}>
@@ -23,7 +24,7 @@
   <nav>
     <ul>
       {% for link in site.data.navigation.header %}
-      {% unless partner and link.noPartner %}
+      {% unless partner and link.noPartner and (this_partner.no_partner == true) %}
       <li><a href="{{ link.url | prepend: partner | relative_url }}" class="masthead__menu-item" {% include data-amp-addparams %}>{{
         link.title }}</a></li>
       {% endunless %}
@@ -43,7 +44,7 @@
       <li class="ampstart-faq-item"><a href="{{ '#' | prepend: partner | relative_url }}" itemprop="url" {% include data-amp-addparams %}><span
         itemprop="name">Home</span></a></li>
       {% for link in site.data.navigation.header %}
-      {% unless partner and link.noPartner %}
+      {% unless partner and link.noPartner and (this_partner.no_partner == true) %}
       <li class="ampstart-faq-item"><a href="{{ link.url | prepend: partner | relative_url }}" itemprop="url" {% include
                                        data-amp-addparams %}><span itemprop="name">{{ link.title }}</span></a></li>
       {% endunless %}
