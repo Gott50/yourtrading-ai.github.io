@@ -22,7 +22,7 @@ Für diese Versicherungen bieten wir bereits einen vollautomatisierten Versicher
 
 - Haftpflichtversicherung
 
-[Zum Automatisierten Versicherungswechsel](https://app.wechselgott.com/)
+[Zum Automatisierten Versicherungswechsel](https://app.wechselgott.com/){:target="_blank"}
 
 ### Versicherungswechsel leicht gemacht
 Für alle anderen Versicherungen stehen Dir unsere Experten mit Rat und Tat zur Verfügung.  Unsere Experten prüfen Deine bestehenden Tarife und spüren jeden Deiner zu teuren Verträge auf. Wir finden den optimalen Versicherer und kümmern uns nach Wunsch um den kompletten Wechsel.
