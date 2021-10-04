@@ -8,7 +8,7 @@ categories:
 image: "assets/post/Braucht-man-eine-Berufsunfähigkeitsversicherung.jpg"
 excerpt: "Wozu braucht man eine Berufsunfähigkeits- versicherung. Ist eine BU überhaupt sinnvoll? Vor welchen Risiken schützt sie Dich, und was gilt es beim Abschluss einer BU-Versicherung zu beachten?"
 cta_text: "Gratis beraten lassen"
-cta_href: "https://calendly.com/christina-lutz-1"
+cta_href: "https://calendly.com/beratung-wechselgott"
 ---
 
 
