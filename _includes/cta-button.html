@@ -1,6 +1,8 @@
 {% include set-cta-data %}
+{% assign this_cta_target = cta_target | default: "_self" %}
 
 <a role="button" class="cta-button" href={{ this_cta_href }}
+   target="{{ this_cta_target }}"
    {% include data-amp-addparams %}>
   <button>{{ cta_text }}</button>
 </a>

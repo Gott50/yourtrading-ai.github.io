@@ -8,6 +8,7 @@ image: "assets/post/Zahlt-die-Hausratversicherung-bei-Eigenverschulden.jpg"
 excerpt: "Was zahlt die Hausratversicherung bei Eigenverschulden? In welchen Fällen zahlt die Hausratversicherung generell? Erfahre welche Schadensfälle durch Deine Hausratversicherung abgedeckt sind."
 cta_text: "Gratis beraten lassen"
 cta_href: "https://calendly.com/beratung-wechselgott"
+cta_target: "_blank"
 ---
 
 

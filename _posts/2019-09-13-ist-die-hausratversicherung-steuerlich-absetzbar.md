@@ -8,6 +8,7 @@ image: "assets/post/Ist-die-Hausratversicherung-steuerlich-absetzbar.gif"
 excerpt: "Die Hausratversicherung ist unter bestimmten Voraussetzungen steuerlich absetzbar. Wir verraten Dir, wie Du die Hausratversicherung erfolgreich bei Deiner Steuererklärung absetzen kannst."
 cta_text: "Gratis beraten lassen"
 cta_href: "https://calendly.com/beratung-wechselgott"
+cta_target: "_blank"
 ---
 
 
