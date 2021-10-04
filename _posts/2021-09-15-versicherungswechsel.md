@@ -7,7 +7,7 @@ categories:
 image: "assets/post/Versicherungswechsel.gif"
 excerpt: "Was gilt es beim Versicherungswechsel z.B. bei der Kfz-Versicherung zu beachten? In unserem Ratgeber erfährst Du, wie Du ohne viel Aufwand den Versicherungswechsel reibungslos meisterst, Kündigungsfristen beachtest und bares Geld sparst."
 cta_text: "Gratis beraten lassen"
-cta_href: "https://calendly.com/christina-lutz-1"
+cta_href: "https://calendly.com/beratung-wechselgott"
 ---
 
 
@@ -53,7 +53,7 @@ Für alle anderen Versicherungen stehen Dir unsere Experten mit Rat und Tat zur 
 
 - u.v.m.
 
-[Vereinbare jetzt Deinen kostenlosen Beratungstermin](https://calendly.com/christina-lutz-1)
+[Vereinbare jetzt Deinen kostenlosen Beratungstermin](https://calendly.com/beratung-wechselgott)
 
 
 ### Ratgeber zum Thema Versicherungswechsel
