@@ -53,7 +53,7 @@ Für alle anderen Versicherungen stehen Dir unsere Experten mit Rat und Tat zur 
 
 - u.v.m.
 
-[Vereinbare jetzt Deinen kostenlosen Beratungstermin](https://calendly.com/beratung-wechselgott)
+[Vereinbare jetzt Deinen kostenlosen Beratungstermin](https://calendly.com/beratung-wechselgott){:target="_blank"}
 
 
 ### Ratgeber zum Thema Versicherungswechsel
