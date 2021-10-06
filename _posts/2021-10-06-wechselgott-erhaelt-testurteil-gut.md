@@ -10,8 +10,8 @@ cta_text: "Wechselservice testen"
 cta_href: "https://app.wechselgott.com/"
 ---
 
-Das Deutsche Institut für Service-Qualität GmbH & Co. KG (Disk) hat im Auftrag des Nachrichtensenders ntv verschiedene digitale Versicherungsmanager getestet. Untersucht wurden 7 Versicherungsmanager-Apps von Insurtechs WechselGott erhält in der Studie das Testurteil gut und kann sich insbesondere in den Punkten "Information und Einstieg" sowie "Nutzungserlebnis" gegen andere Anbieter behaupten
-So wird beispielsweise der schnelle Registrierungsprozess und die transparente Kostendarstellung gelobt. Aber auch der hohe Informationsgehalt der Website.
+Das Deutsche Institut für Service-Qualität GmbH & Co. KG (DISQ) hat im Auftrag des Nachrichtensenders ntv verschiedene digitale Versicherungsmanager getestet. Untersucht wurden 7 Versicherungsmanager-Apps von Insurtechs. WechselGott erhält in der Studie das Testurteil gut und kann sich insbesondere in den Punkten "Information und Einstieg" sowie "Nutzungserlebnis" gegen andere Anbieter behaupten.
+So wird beispielsweise der schnelle Registrierungsprozess und die transparente Kostendarstellung gelobt. Aber auch der hohe Informationsgehalt der Website positiv hervorgehoben.
 
 ## Schluss mit Vertragschaos
 
