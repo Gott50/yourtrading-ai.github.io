@@ -18,10 +18,12 @@
     background: $color-white;
     padding: 1px;
     @media (min-width: 600px) {
-      width: 400px;
-      margin-right: 16px;
+      position: fixed;
+      right: calc((100vw - 400px) / 2);
+      left: calc((100vw - 400px) / 2);
+      top: auto;
+      bottom: calc((100vh - 600px) / 2);
       border-radius: 4px;
-      margin-bottom: 16px;
     }
 
     #consentDialog{
