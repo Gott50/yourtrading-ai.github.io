@@ -4,8 +4,8 @@ date: "2021-10-06"
 categories: 
   - "ratgeber"
   - "gas"
-image: "assets/post/Gaspreis-2022.gif"
-excerpt: "Wie entwickelt sich der Gaspreis 2022? Die Preise für Gas sollen auch 2022 erneut steigen. Wir verraten Dir wie Du trotz steigender Gaspreise, Deine Kosten für Gas einfach senken kannst. Erfahre hier alles zum Thema Gaspreisentwicklung."
+image: ""
+excerpt: "Das Deutsche Institut für Service Qualität hat z digitale Versicherungsmanager getestet. WechselGott erhält das Testurteil gut. Insbesondere der einfache Registrierungsprozess und der hohe Informationsgrad wissen zu überzeugen."
 cta_text: "Wechselservice testen"
 cta_href: "https://app.wechselgott.com/"
 ---
