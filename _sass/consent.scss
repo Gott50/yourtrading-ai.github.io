@@ -17,13 +17,17 @@
   #consentPopup {
     background: $color-white;
     padding: 1px;
+
+    position: fixed;
+    top: auto;
+    bottom: calc((100vh - 500px) / 2);
+    border-radius: 4px;
+    right: 0;
+    left: 0;
+
     @media (min-width: 600px) {
-      position: fixed;
-      right: calc((100vw - 400px) / 2);
-      left: calc((100vw - 400px) / 2);
-      top: auto;
-      bottom: calc((100vh - 600px) / 2);
-      border-radius: 4px;
+      right: calc((100vw - 500px) / 2);
+      left: calc((100vw - 500px) / 2);
     }
 
     #consentDialog{
