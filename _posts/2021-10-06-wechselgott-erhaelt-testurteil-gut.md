@@ -1,5 +1,5 @@
 ---
-title: "WechselGott erhält Testurteil "gut""
+title: "WechselGott erhält Testurteil gut"
 date: "2021-10-06"
 categories: 
   - "ratgeber"
