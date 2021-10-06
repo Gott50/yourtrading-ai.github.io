@@ -5,7 +5,7 @@ categories:
   - "ratgeber"
   - "gas"
 image: ""
-excerpt: "Das Deutsche Institut für Service Qualität hat 7 digitale Versicherungsmanager getestet. WechselGott erhält das Testurteil gut. Insbesondere der einfache Registrierungsprozess und der hohe Informationsgrad wissen zu überzeugen."
+excerpt: "Das Deutsche Institut für Service-Qualität hat 7 digitale Versicherungsmanager getestet. WechselGott erhält das Testurteil gut. Insbesondere der einfache Registrierungsprozess und der hohe Informationsgrad wissen zu überzeugen."
 cta_text: "Wechselservice testen"
 cta_href: "https://app.wechselgott.com/"
 ---
