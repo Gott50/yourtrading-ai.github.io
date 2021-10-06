@@ -81,8 +81,37 @@
 {% if site.custom_scripts.gtag %}
 <!-- Google Tag Manager -->
 <script>
+  function setCookie(cookieName, cookieValue) {
+    const expiresInDays = 30
+    const expiresDate = new Date();
+    expiresDate.setTime(expiresDate.getTime() + (expiresInDays * 24 * 60 * 60 * 1000));
+    const expires = "expires=" + expiresDate.toUTCString();
+
+    const s = location.hostname.split('.')
+    delete s[0]
+    const domain = "domain=" + (s.length <= 1? location.hostname : s.join('.'))
+
+    document.cookie = cookieName + "=" + JSON.stringify(cookieValue) + ";" + expires + ";path=/;" + domain;
+  }
+
+  function getCookie(cookieName) {
+    let name = cookieName + "=";
+    let decodedCookie = decodeURIComponent(document.cookie);
+    let ca = decodedCookie.split(';');
+    for (let i = 0; i < ca.length; i++) {
+      let c = ca[i];
+      while (c.charAt(0) == ' ') {
+        c = c.substring(1);
+      }
+      if (c.indexOf(name) == 0) {
+        return JSON.parse(c.substring(name.length, c.length));
+      }
+    }
+    return {};
+  }
+
   function analytics() {
-    localStorage.setItem("analytics", true);
+    setCookie("CookieConsent", {"necessary": true, "preferences": true, "statistics": true, "marketing": true});
     (function (w, d, s, l, i) {
       w[l] = w[l] || [];
       w[l].push({
@@ -98,7 +127,7 @@
     })(window, document, 'script', 'dataLayer', '{{ site.custom_scripts.gtag }}');
   }
 
-  if (JSON.parse(localStorage.getItem("analytics"))) {
+  if (getCookie("CookieConsent").marketing) {
     analytics()
   }
 
@@ -112,7 +141,7 @@
     if (marketing) {
       analytics();
     } else {
-      localStorage.setItem("analytics", false);
+      setCookie("CookieConsent", {"necessary": true, "preferences": true, "statistics": false, "marketing": false});
     }
   }
 
