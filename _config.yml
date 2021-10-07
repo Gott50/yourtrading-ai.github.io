@@ -36,11 +36,6 @@ amp-link-variable-allowed-origin: "https://app.wechselgott.com"
 data-amp-addparams:
   - campaignName
   - campaignId
-  - utm_source
-  - utm_medium
-  - utm_content
-  - utm_campaign
-  - utm_term
   - apn
   - ibi
   - isi
