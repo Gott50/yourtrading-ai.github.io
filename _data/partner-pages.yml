@@ -20,6 +20,9 @@
 - path: gutschein-vb-hm
   cta_href: https://wechselgott.page.link/DLRAZK
   amazon_deal: True
+- path: Lw3m
+  cta_href: https://wechselgott.page.link/Lw3m
+  no_partner: True
 - path: los
   cta_href: https://wechselgott.page.link/VBMIW_P_1
 - path: maerkische-bank
