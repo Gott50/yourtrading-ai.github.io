@@ -1,8 +1,7 @@
 ---
-layout: partner 
+layout: amazon-deal 
 title: Morgen kann kommen 
 subtitle: Vollautomatisch Verträge optimieren und Amazon-Gutschein sichern
-
 
 ---
 
