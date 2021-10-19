@@ -50,7 +50,8 @@ splashes:
       <div>
         <h4>100% automatisiert</h4>
         <p>
-          Die WechselGott App analysiert all Deine Verträge, listet diese übersichtlich auf und bietet Dir ein Leben
+          Die WechselGott App analysiert all Deine Verträge, erkennt automatisch Deinen Energievertrag und bietet Dir
+          ein Leben
           lang
           einen vollkommen automatisierten Wechselservice. Du hast alles unter Kontrolle!</p>
       </div>
@@ -78,7 +79,7 @@ splashes:
       <div>
         <h4>Energieverträge optimieren</h4>
         <p>Auf Wunsch wechseln wir Deinen Stromanbieter zum günstigsten Anbieter. Du kannst Dich auch
-          für Ökostrom- oder Ökogasanbieter entscheiden.</p>
+          für einen nachhaltigen Ökostrom-Anbieter entscheiden.</p>
       </div>
     </div>
 
@@ -168,9 +169,10 @@ splashes:
 
   <section class="platform relative">
     <h2>Für all Deine Geräte verfügbar</h2>
-    <amp-img src="{{ layout.MacbookPro-AlleKonten-noshadow1 | default: 'assets/WechselGott/MacbookPro-AlleKonten-noshadow1.png' | relative_url }}"
-             width="928" height="534" layout="intrinsic"
-             alt="MacbookPro-AlleKonten-noshadow1.png">
+    <amp-img
+            src="{{ layout.MacbookPro-AlleKonten-noshadow1 | default: 'assets/WechselGott/MacbookPro-AlleKonten-noshadow1.png' | relative_url }}"
+            width="928" height="534" layout="intrinsic"
+            alt="MacbookPro-AlleKonten-noshadow1.png">
       <div placeholder style="background: transparent"></div>
     </amp-img>
     <amp-img src="{{ 'assets/WechselGott/Subtract.svg' | relative_url }}"
@@ -302,27 +304,27 @@ splashes:
   </section>
 
   <section class="one-place">
-      <amp-img src="{{ 'assets/WechselGott/Circles.png' | relative_url }}"
-               width="928" height="928"
-               class="splash" layout="intrinsic"
-               alt="Circles.png">
+    <amp-img src="{{ 'assets/WechselGott/Circles.png' | relative_url }}"
+             width="928" height="928"
+             class="splash" layout="intrinsic"
+             alt="Circles.png">
+      <div placeholder style="background: transparent"></div>
+      <amp-img src="{{ 'assets/WechselGott/Phone1.png' | relative_url }}"
+               width="525" height="600"
+               layout="intrinsic"
+               style="top: 8.6%; right: 10%;width: 56.6%;"
+               alt="Phone1.png">
         <div placeholder style="background: transparent"></div>
-        <amp-img src="{{ 'assets/WechselGott/Phone1.png' | relative_url }}"
-                 width="525" height="600"
-                 layout="intrinsic"
-                 style="top: 8.6%; right: 10%;width: 56.6%;"
-                 alt="Phone1.png">
-          <div placeholder style="background: transparent"></div>
-        </amp-img>
-        <amp-img src="{{ 'assets/WechselGott/Phone2.png' | relative_url }}"
-                 width="572" height="567"
-                 layout="intrinsic"
-                 style="bottom: 0; left: 3%; width: 61.6%;"
-                 alt="Phone2.png">
-          <div placeholder style="background: transparent"></div>
-        </amp-img>
-
       </amp-img>
+      <amp-img src="{{ 'assets/WechselGott/Phone2.png' | relative_url }}"
+               width="572" height="567"
+               layout="intrinsic"
+               style="bottom: 0; left: 3%; width: 61.6%;"
+               alt="Phone2.png">
+        <div placeholder style="background: transparent"></div>
+      </amp-img>
+
+    </amp-img>
 
     <h4>Vereine all Deine Konten und Verträge am selben Ort.</h4>
     {% include cta-button.html %}
