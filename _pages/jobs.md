@@ -1,6 +1,6 @@
 ---
 layout: jobs
-permalink: /jobs/
+permalink: /jobs
 title: Offene Stellen
 
 splashes:

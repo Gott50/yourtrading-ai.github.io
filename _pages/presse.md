@@ -1,6 +1,6 @@
 ---
 layout: presse
-permalink: /presse/
+permalink: /presse
 title: Pressebereich
 ---
 

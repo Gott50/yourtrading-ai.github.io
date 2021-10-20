@@ -1,5 +1,5 @@
 ---
 title: Allgemeine Geschäfts- bedingungen
-permalink: /agb/
+permalink: /agb
 layout: agb
 ---

@@ -1,5 +1,5 @@
 ---
 title: Datenschutz- erklärung
-permalink: /datenschutz/
+permalink: /datenschutz
 layout: datenschutz
 ---
