@@ -1,6 +1,6 @@
 ---
 title: Erstinformation
-permalink: /erstinformation
+permalink: /erstinformation/
 layout: erstinformation
 ---
 

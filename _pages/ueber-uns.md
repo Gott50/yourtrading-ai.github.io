@@ -1,6 +1,6 @@
 ---
 layout: ueber-uns
-permalink: /experten-2
+permalink: /experten-2/
 title: Lerne das Team kennen
 meta: AboutPage
 splashes:
