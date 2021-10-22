@@ -45,7 +45,7 @@ die Aktion angesehen werden kann.
 
 ### Aktionszeitraum
 
-Die Werbeaktion ist gültig vom 13.09.2021 bis zum 31.12.2021 und gilt nur für die ersten 50 registrierten Nutzer, die
+Die Werbeaktion ist gültig vom 25.10.2021 bis zum 31.10.2021 und gilt nur für die ersten 50 registrierten Nutzer, die
 alle Teilnahmebedingungen erfüllen.
 
 <br>
