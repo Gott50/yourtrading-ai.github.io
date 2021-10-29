@@ -49,6 +49,10 @@ body, input, textarea {
   }
 }
 
+::selection {
+  background: #4AC7C0;
+}
+
 small, .small {
   font-size: calc(min(18px, 4vw));
 }
