@@ -47,7 +47,7 @@ static_email:
 consent: true
 
 custom_scripts:
-  gtag: GTM-P8V4Q3S
+#  gtag: GTM-P8V4Q3S
 
 # AMP-Analytics
 analytics:
@@ -78,10 +78,10 @@ minima:
 #    github:  jekyll
 #    rss: rss
     # dribbble: jekyll
-     facebook: wechselgott
+#     facebook: wechselgott
     # flickr:   jekyll
-     instagram: wechselgott_app
-     linkedin: wechselgott
+#     instagram: wechselgott_app
+#     linkedin: wechselgott
 #     xing: company/finum
     # pinterest: jekyll
     # youtube: jekyll

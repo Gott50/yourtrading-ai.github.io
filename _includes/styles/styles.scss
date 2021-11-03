@@ -54,42 +54,45 @@ body, input, textarea {
 }
 
 small, .small {
-  font-size: calc(min(18px, 4vw));
+  font-size: calc(min(1rem, 4vw));
+  margin-bottom: calc(min(0.5rem, 1.1vw));
 }
 
 button, .button, .ampstart-headerbar {
   letter-spacing: 0.04em;
+  margin-bottom: calc(min(0.5rem, 1.1vw));
 }
 
 h1,h2,h3,h4,h5,
 .h1,.h2,.h3,.h4,.h5,
 button, .ampstart-headerbar, .ampstart-sidebar, .heading{
   font-family: $font-family--heading;
-  font-weight: 700;
+  font-weight: bold;
   line-height: 123%;
 }
 
 h1, .h1 {
   font-size: calc(min(72px, 8vw));
   line-height: 134%;
-  margin: calc(min(2rem, 5vw)) auto;
+  margin-bottom: calc(min(2rem, 4.3vw));
   color: $color-black;
 }
 
 h2, .h2 {
   font-size: calc(min(48px, 7vw));
-  margin: calc(min(2rem, 5vw)) auto;
+  margin-bottom: calc(min(2rem, 4.3vw));
 
 }
 
 h3, .h3,{
   font-size: calc(min(36px, 6vw));
-  margin: calc(min(2rem, 5vw)) auto;
+  margin-bottom: calc(min(2rem, 4.3vw));
 }
 
-h4, .h4, p, ul{
+h4, .h4 {
   font-size: calc(min(24px, 5vw));
-  margin: calc(min(0.5rem, 2vw)) auto;
+  margin-top: calc(min(2rem, 5vw));
+  margin-bottom: calc(min(0.5rem, 1.1vw));
   line-height: 1.25;
 }
 
@@ -100,7 +103,7 @@ h5, .h5{
 }
 
 p {
-  margin-bottom: calc(min(2rem, 5vw));
+  margin-bottom: calc(min(0.5rem, 1.1vw));
 }
 
 .mb {
