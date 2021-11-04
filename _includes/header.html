@@ -4,7 +4,7 @@
   {% include set-cta-data %}
 
   {% if site.logo %}
-  <a class="ampstart-headerbar-logo" href="{{ '#' | prepend: partner | relative_url }}" itemprop="url" {% include data-amp-addparams %}>
+  <a class="ampstart-headerbar-logo" href="/#" itemprop="url" {% include data-amp-addparams %}>
     <amp-img data-amp-auto-lightbox-disable src="{{ partnerLogo | default: site.logo | relative_url }}" width="181" height="50"
              layout="intrinsic" alt="{{ site.title }}"></amp-img>
   </a>
