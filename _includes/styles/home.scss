@@ -32,7 +32,7 @@ body .page {
     width: 640px;
     position: relative;
     margin-left: 0;
-    margin-bottom: 614px;
+    margin-bottom: 0;
 
 
     .cta-button {
@@ -46,227 +46,30 @@ body .page {
   }
 
   > section {
-    margin-top: calc(min(256px, 40vw));
+    padding-top: calc(min(256px, 40vw));
   }
 
-  .usps {
-    display: grid;
-    grid-template-columns: repeat(2, max-content);
-    justify-content: center;
-    column-gap: 32px;
-
-    h4 {
-      margin-top: 0;
-    }
-
-    p, amp-img, ul {
-      margin-bottom: calc(min(123px, 15vw));
-    }
-
-    > div {
-      width: 448px;
-    }
-
-    .shadow {
-      filter: drop-shadow(16px 24px 64px rgba(0, 0, 0, 0.08));
-    }
-
-    amp-img {
-      max-width: 50vw;
-    }
-
-    > :nth-child(1) {
-      text-align: right;
-    }
-
-    > :nth-child(2) {
-      amp-img {
-        margin-bottom: 146px;
-      }
-    }
-
-    > :nth-child(3) {
-      text-align: right;
-
-      amp-img {
-        margin-bottom: 173px;
-      }
-    }
-
-    > :nth-child(4) {
-    }
-
-    @media only screen and (max-width: $mobile-width) {
-      display: block;
-
-      > div {
-        width: 618px;
-      }
-
-      > :nth-child(n) {
-        margin-left: auto;
-        margin-right: auto;
-
-        > div {
-          text-align: center;
-        }
-      }
-
-      > :nth-child(2) {
-        amp-img {
-          margin-bottom: calc(min(123px, 15vw));
-        }
-      }
-
-      > :nth-child(1), > :nth-child(3) {
-        amp-img {
-          margin-left: auto;
-          margin-bottom: calc(max(-200px, -45vw));
-        }
-      }
-
-      > :nth-child(3), > :nth-child(4) {
-        display: flex;
-        flex-direction: column-reverse;
-        align-items: flex-start;
-      }
-
-    }
-  }
-
-  .clicks {
-    text-align: center;
-    max-width: 920px;
-
-    h2 {
-      text-align: left;
-      margin: -40px auto -10px -10px;
-      @media only screen and (max-width: $mobile-width) {
-        margin-left: auto;
-        text-align: center;
-      }
-    }
-
-    .heading {
-      font-size: calc(min(120px, 11.5vw));
-    }
-  }
-
-  .testimonials {
-    text-align: center;
-
-    .relative {
-      margin-top: 64px;
-
-      > amp-img {
-        margin-top: -100px;
-        @media only screen and (max-width: $mobile-width) {
-          position: absolute;
-          width: 100%;
-          left: 0;
-          margin-top: 0;
-        }
-      }
-    }
-
-    .card {
-      position: absolute;
-      padding: 32px;
-      width: 502px;
-      text-align: left;
-
-      background: $color-white;
-      box-shadow: 0 0 32px rgba(0, 0, 0, 0.08);
-      border-radius: 16px;
-
-      h4 {
-        margin-top: 0;
-      }
-
-      &:nth-child(2) {
-        top: 0;
-      }
-
-      &:nth-child(3) {
-        top: 80px;
-        right: 0;
-      }
-
-      &:nth-child(4) {
-        top: 344px;
-        left: 0;
-        right: 0;
-        margin-right: auto;
-        margin-left: auto;
-      }
-
-      @media only screen and (max-width: $mobile-width) {
-        position: initial;
-        margin-top: -1em;
-        max-width: calc(100vw - 16px * 6);
-
-        &:nth-child(3) {
-          margin-right: 0;
-          margin-left: auto;
-          margin-bottom: auto;
-        }
-      }
 
 
-      amp-img {
-        border-radius: 100%;
-        margin: 0 16px 0 0;
-        float: left;
-      }
-
-      p {
-        margin: 32px 0 0;
-      }
-    }
-  }
-
-  .platform {
-    text-align: center;
-
-
-    .wrap {
-      justify-content: space-around;
-      width: 604px;
-      margin: 64px auto auto;
-    }
-
-    .splash {
-      position: absolute;
-      bottom: 15px;
-      left: 0;
-      right: 0;
-
-      @media only screen and (max-width: $mobile-width) {
-        max-width: 100vw;
-        bottom: unset;
-        left: -16px;
-        right: -16px;
-        margin-top: -7vw;
-      }
-    }
-
-    a {
-      margin-bottom: 26px;
-    }
-  }
-
-  .steps {
+  #features {
     .wrap {
       margin-top: 64px;
       justify-content: space-between;
 
       div {
-        width: 448px;
+        width: 300px;
         position: relative;
 
         @media only screen and (max-width: $mobile-width) {
           margin: auto;
         }
+      }
+
+      >:nth-child(2) {
+        margin-top: 128px;
+      }
+      >:nth-child(3) {
+        margin-top: 256px;
       }
     }
 
@@ -278,66 +81,6 @@ body .page {
 
     h4 {
       margin-top: 32px;
-    }
-  }
-
-  .video {
-    width: 928px;
-
-    h2 {
-      width: 618px;
-    }
-
-    amp-video {
-      margin-top: 64px;
-      display: block;
-    }
-    video {
-      border-radius: 16px;
-      background: rgba(255, 255, 255, 0.5);
-    }
-  }
-
-  .one-place {
-    > amp-img {
-      display: block;
-      position: relative;
-      width: 928px;
-      margin: auto;
-
-      > amp-img {
-        position: absolute;
-        z-index: 1;
-      }
-    }
-
-    h4 {
-      margin-top: 93px;
-      width: 538px;
-    }
-  }
-
-  .partner {
-    .wrap {
-      margin-top: 64px;
-      justify-content: space-around;
-
-      div {
-        max-width: 352px;
-        height: 17vw;
-        width: 30%;
-        min-width: 270px;
-        min-height: 50px;
-        max-height: 96px;
-      }
-
-      amp-img {
-        top: 0;
-        bottom: 0;
-        position: absolute;
-        margin: auto;
-        height: fit-content;
-      }
     }
   }
 
