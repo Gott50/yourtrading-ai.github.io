@@ -1,47 +1,19 @@
 ---
 layout: default
-amp-video: true
+amp-fx-collection: true
 styles:
 - home.scss
 - blog.scss
-splashes:
-- src: assets/WechselGott/Ellipse159.svg
-  width: 495
-  height: 495
-  style: "position: absolute;right: 0;top: 166px;"
-- src: assets/WechselGott/Ellipse161.svg
-  width: 800
-  height: 800
-  style: "position: absolute;left: -100px;top: 343px;"
-- src: assets/WechselGott/Ellipse173.svg
-  width: 495
-  height: 495
-  style: "position: absolute;left: 0;top: 2168px;"
-- src: assets/WechselGott/Frame2283.svg
-  width: 784
-  height: 800
-  style: "position: absolute;right: 0;top: 2875px;"
-- src: assets/WechselGott/Ellipse173.svg
-  width: 800
-  height: 800
-  style: "position: absolute;left: 0;top: 8530px;"
 
 ---
 
 <main role="main" class="page container">
-  <amp-img src="{{ 'assets/WechselGott/IPhone12Pro.png' | relative_url }}"
-           width="543" height="685"
-           class="splash first-img" layout="intrinsic"
-           alt="IPhone12Pro.png">
-    <div placeholder style="background: transparent"></div>
-  </amp-img>
   <header class="page-header">
     <h1>{{ page.title }}</h1>
-    <h3>{{ page.subtitle }}</h3>
+    <p>{{ page.subtitle }}</p>
 
-    {% assign cta_text= "Jetzt Anmelden" %}
+    {% assign cta_text= "Get in Touch" %}
     {% include cta-button.html %}
-    <small>* Für immer kostenlos</small>
   </header>
 
 
@@ -300,17 +272,6 @@ splashes:
 
   <section class="video">
     <h2>So geht Vertragswechsel heute</h2>
-    <amp-video controls
-               width="928"
-               height="522"
-               layout="intrinsic"
-               poster="{{ 'assets/WechselGott/video-Thumbnail.png' | relative_url }}">
-      <source src="{{ 'assets/WechselGott/Video.mp4' | relative_url }}"
-              type="video/mp4"/>
-      <div fallback>
-        <p>This browser does not support the video element.</p>
-      </div>
-    </amp-video>
   </section>
 
   <section class="one-place">
@@ -344,3 +305,32 @@ splashes:
   {{ content }}
 </main>
 {% include splashes.html %}
+
+<div class="splashes">
+  <amp-img src="{{ 'assets/Robotter/Curve1.png' | relative_url }}" width="632" height="898"
+           style="top: 0" class="splash" layout="intrinsic"
+           amp-fx="parallax" data-parallax-factor="0"
+           alt="Curve1.png">
+    <div placeholder style="background: transparent"></div>
+    <amp-img src="{{ 'assets/Robotter/Background1.png' | relative_url }}" width="632" height="898"
+             class="splash" layout="intrinsic"
+             amp-fx="parallax" data-parallax-factor="0.75"
+             alt="Background1.png">
+      <div placeholder style="background: transparent"></div>
+    </amp-img>
+  </amp-img>
+
+  <amp-img src="{{ 'assets/Robotter/Curve2.png' | relative_url }}" width="632" height="898"
+           style="top: 0; right: 64px" class="splash" layout="intrinsic"
+           amp-fx="parallax" data-parallax-factor="0"
+           alt="Curve2.png">
+    <div placeholder style="background: transparent"></div>
+    <amp-img src="{{ 'assets/Robotter/Background2.png' | relative_url }}" width="632" height="898"
+             class="splash" layout="intrinsic"
+             amp-fx="parallax" data-parallax-factor="0.75"
+             alt="Background2.png">
+      <div placeholder style="background: transparent"></div>
+    </amp-img>
+  </amp-img>
+
+</div>

@@ -35,7 +35,7 @@ html{
 }
 
 body, input, textarea {
-  font-size: calc(min(1.125rem, 5vw));
+  font-size: calc(min(1.25rem, 5vw));
   font-family: $font-family--primary;
   font-weight: 400;
   letter-spacing: 0.01em;
@@ -135,6 +135,17 @@ section {
 
 .splash {
   z-index: -2;
+}
+
+.splashes {
+  //position: absolute;
+  .splash {
+    position: absolute;
+
+    amp-img {
+      top: 0;
+    }
+  }
 }
 
 .svg-icon {
