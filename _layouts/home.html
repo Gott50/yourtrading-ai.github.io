@@ -154,30 +154,30 @@ styles:
 
   </section>
 
-
-
-
-  <section class="sicherheit wrap">
-    <div>
-      <h2>Datensicherheit</h2>
-      <h4>Unsere Philosophie: Privacy by Design</h4>
-      <p>Aufgrund der Wichtigkeit von Datensicherheit im Umgang mit sensiblen Finanzdaten binden wir in jedem
-        Entwicklungsschritt Sicherheits- und Datenschutzbeauftragte mit ein. So können wir garantieren, dass alle
-        wesentlichen Sicherheitsstandards eingehalten werden.</p>
-    </div>
-
-    <div>
-      <amp-img src="{{ 'assets/WechselGott/Group-2230.png' | relative_url }}"
-               width="288" height="208"
-               layout="intrinsic"
-               alt="Group-2230.png">
+  <section id="ressources">
+    <div class="splashes">
+      <amp-img src="{{ 'assets/Robotter/Curve4.png' | relative_url }}" width="496" height="656"
+               style="top: -100px; left: 0" class="splash" layout="intrinsic"
+               amp-fx="parallax" data-parallax-factor="0"
+               alt="Curve4.png">
+        <div placeholder style="background: transparent"></div>
+        <amp-img src="{{ 'assets/Robotter/Background4.png' | relative_url }}" width="496" height="656"
+                 style="top: -100px" class="splash" layout="intrinsic"
+                 amp-fx="parallax" data-parallax-factor="0.75"
+                 alt="Background4.png">
+          <div placeholder style="background: transparent"></div>
+        </amp-img>
       </amp-img>
-      <a role="button" class="cta-button" href="{{ '/datenschutz-sicherheit' | relative_url }}"
-         {% include data-amp-addparams %}>
-        <button>Mehr dazu</button>
-      </a>
     </div>
-
+    <div class="text">
+      <h2>Ressources</h2>
+      <p>If you want to know more, take a look at our GitBook and Whitepaper. Contribute on GitHub.</p>
+      <ul>
+        <li><a href="https://yourtrading-ai.github.io/">yourtrading-ai.github.io</a></li>
+        <li><a href="https://yourtrading-ai.gitbook.io/">yourtrading-ai.gitbook.io</a></li>
+        <li><a href="https://github.com/yourtrading-ai">GitHub Repo</a></li>
+      </ul>
+    </div>
   </section>
 
   {{ content }}
