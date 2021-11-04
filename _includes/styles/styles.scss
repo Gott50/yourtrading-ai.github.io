@@ -3,7 +3,7 @@ $font-family--primary: 'Mulish', sans-serif;
 $font-family--heading: 'Montserrat', sans-serif;
 $container-max-width: 1120px;
 $container-max-width-small: 736px;
-$height-header: 102px;
+$height-header: 82px;
 
 $color-white: #FFF;
 $color-black: #4C4C4C;
@@ -11,7 +11,7 @@ $color-primary: {% if page.color.primary %} {{page.color.primary}} {% else %} {{
 $color-secondary: {% if page.color.secondary %} {{page.color.secondary}} {% else %} {{site.color.secondary}} {% endif %};
 $color-hover: {% if page.color.hover %} {{page.color.hover}} {% else %} {{site.color.hover}} {% endif %};
 $color-active: {% if page.color.active %} {{page.color.active}} {% else %} {{site.color.active}} {% endif %};
-$color-body-background: #FAFAFA;
+$color-body-background: #151621;
 
 
 $color-lightblue: #009FE3;
@@ -40,7 +40,7 @@ body, input, textarea {
   font-weight: 400;
   letter-spacing: 0.01em;
   background: $color-body-background;
-  color: $color-black;
+  color: $color-white;
   line-height: 1.666666666;
 
   * {
@@ -50,7 +50,7 @@ body, input, textarea {
 }
 
 ::selection {
-  background: #4AC7C0;
+  background: $color-primary;
 }
 
 small, .small {
@@ -75,7 +75,6 @@ h1, .h1 {
   font-size: calc(min(72px, 8vw));
   line-height: 134%;
   margin-bottom: calc(min(2rem, 4.3vw));
-  color: $color-black;
 }
 
 h2, .h2 {
@@ -111,7 +110,7 @@ p {
 }
 
 .color-secondary {
-  color: $color-secondary;
+  color: $color-primary;
 }
 
 figure {
@@ -168,7 +167,7 @@ body .page, body .post{
 }
 
 .color-secondary{
-  color: $color-secondary;
+  color: $color-primary;
 }
 
 .center {

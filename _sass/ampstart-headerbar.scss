@@ -1,7 +1,7 @@
 .ampstart-headerbar {
   height: $height-header;
-  color: $color-gray_5;
-  background: $color-white;
+  color: $color-white;
+  background: $color-body-background;
   box-shadow: 0 0 16px rgba(0, 0, 0, 0.16);
   position: fixed;
   top: 0;
@@ -36,12 +36,13 @@
 
   ul {
     max-width: 617px;
-    font-size: 1.125rem;
+    font-size: 1rem;
     display: flex;
     justify-content: space-between;
     list-style: none;
     padding: 0;
     text-align: center;
+    margin: auto;
 
     li {
       display: block;

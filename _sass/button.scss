@@ -24,21 +24,21 @@ button, select {
 
 [type=reset], [type=submit], button, html [type=button] {
   -webkit-appearance: button;
-  background-color: $color-secondary;
-  padding: 16px 24px;
-  color: $color-white;
+  background-color: transparent;
+  padding: 8px 22px;
+  color: $color-primary;
   -webkit-flex-shrink: 0;
   -ms-flex-negative: 0;
   flex-shrink: 0;
   text-decoration: none;
-  border: 0;
-  border-radius: 27px;
+  border: 2px solid $color-primary;
+  border-radius: 4px;
   width: 352px;
   max-width: 100%;
 
   &:hover, &:focus {
     background-color: $color-hover;
-    color: $color-white;
+    color: $color-black;
     text-decoration: none;
     cursor: pointer;
   }
@@ -46,12 +46,6 @@ button, select {
   &:active {
     background-color: $color-active;
     opacity: .5;
-  }
-
-  &.stroke {
-    border: 2px solid $color-secondary;
-    background: transparent;
-    color: $color-secondary
   }
 
   &.grey {

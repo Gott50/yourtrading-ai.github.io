@@ -22,29 +22,24 @@ show_excerpts: true # set to true to show excerpts on the homepage
 
 
 color:
-  primary: "#3FD298"
+  primary: "#FFFF00"
   secondary: "#1DBAB1"
-  hover: "#1FC7BD"
-  active: "#1BADA5"
+  hover: "#FFFF00"
+  active: "#FFFF00"
 
-logo: assets/WechselGott/Logo-WechselGott-Typo-Right.svg
+logo: assets/Robotter/Logo-Robotter.svg
 defaultHeaderImage:
-cta_text_default: "Anmelden"
-cta_href_default: "https://app.wechselgott.com"
+cta_text_default: "Contact"
+cta_href_default: "/#contact"
 
 amp-link-variable-allowed-origin: "https://app.wechselgott.com"
 data-amp-addparams:
-  - campaignName
-  - campaignId
-  - apn
-  - ibi
-  - isi
 
 # Contact
 static_email:
 
 # Consent
-consent: true
+consent: false
 
 custom_scripts:
 #  gtag: GTM-P8V4Q3S
