@@ -1,6 +1,4 @@
 body .page {
-  position: relative;
-
   .first-img {
     width: calc(min(476px, 100vw));
     position: absolute;
@@ -13,11 +11,6 @@ body .page {
       display: none;
       margin: auto;
     }
-  }
-
-  section > h2, section > h4 {
-    width: 736px;
-    text-align: center;
   }
 
   .cta-button {
@@ -81,6 +74,18 @@ body .page {
 
     h4 {
       margin-top: 32px;
+    }
+  }
+
+  #app {
+    .splashes {
+      position: absolute;
+      left: 0;
+      right: 0;
+    }
+
+    > .text {
+      width: 448px;
     }
   }
 
