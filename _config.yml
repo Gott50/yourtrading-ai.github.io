@@ -1,15 +1,13 @@
-lang: "de"
+lang: "en-us"
 title: RobOtter
 short_name: RobOtter
-email: kundenservice@wechselgott.com
-tel: +49 202 251557269
-whatsapp: +49 176 57800298
-whatsapp_link: https://api.whatsapp.com/send/?phone=+4917657800298&text&app_absent=0
-author: WechselGott GmbH
-url: https://www.wechselgott.com
-address: >
-  Spinnereistraße 7 <br>
-  04179 Leipzig
+email: contact@robotter.ai
+tel:
+whatsapp:
+whatsapp_link:
+author: RobOtter
+url: https://yourtrading-ai.github.io
+address:
 description: > # this means to ignore newlines until "show_excerpts:"
   Create Machine Learning models without code.
   Publish your predictions on Chainlink.
