@@ -27,6 +27,9 @@ body .page {
     margin-left: 0;
     margin-bottom: 0;
 
+    p {
+      font-weight: bold;
+    }
 
     .cta-button {
       margin-top: 96px;
@@ -86,6 +89,7 @@ body .page {
 
     > .text {
       width: 448px;
+      font-weight: bold;
     }
   }
 
