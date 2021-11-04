@@ -1,6 +1,6 @@
 lang: "de"
-title: WechselGott
-short_name: WechselGott
+title: RobOtter
+short_name: RobOtter
 email: kundenservice@wechselgott.com
 tel: +49 202 251557269
 whatsapp: +49 176 57800298
@@ -11,11 +11,9 @@ address: >
   Spinnereistraße 7 <br>
   04179 Leipzig
 description: > # this means to ignore newlines until "show_excerpts:"
-  Nie wieder zu viel für Energie zahlen!
-  ✓ Strom & Gas jedes Jahr automatisch wechseln
-  ✓ Kein Aufwand
-  ✓ Unabhängige Tarife.
-  Jetzt testen!
+  Create Machine Learning models without code.
+  Publish your predictions on Chainlink.
+  Automate trading and get paid.
 
 show_excerpts: true # set to true to show excerpts on the homepage
 
@@ -24,6 +22,7 @@ show_excerpts: true # set to true to show excerpts on the homepage
 color:
   primary: "#FFFF00"
   secondary: "#1DBAB1"
+  background: "#151621"
   hover: "#FFFF00"
   active: "#FFFF00"
 

@@ -11,7 +11,7 @@ $color-primary: {% if page.color.primary %} {{page.color.primary}} {% else %} {{
 $color-secondary: {% if page.color.secondary %} {{page.color.secondary}} {% else %} {{site.color.secondary}} {% endif %};
 $color-hover: {% if page.color.hover %} {{page.color.hover}} {% else %} {{site.color.hover}} {% endif %};
 $color-active: {% if page.color.active %} {{page.color.active}} {% else %} {{site.color.active}} {% endif %};
-$color-body-background: #151621;
+$color-body-background: {% if page.color.background %} {{page.color.background}} {% else %} {{site.color.background}} {% endif %};
 
 
 $color-lightblue: #009FE3;

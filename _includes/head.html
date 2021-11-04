@@ -99,19 +99,18 @@
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
 
   {% comment %} Add FavIcon Imports {% endcomment %}
-  <link rel="apple-touch-icon" sizes="180x180" href="{{ 'assets/favicon/apple-touch-icon.png' | relative_url }}">
+  <link rel="apple-touch-icon" sizes="76x76" href="{{ 'assets/favicon/apple-touch-icon.png' | relative_url }}">
   <link rel="icon" type="image/png" sizes="image/svg+xml" href="{{ 'assets/favicon/favicon.svg' | relative_url }}">
-  <link rel="icon" type="image/png" href="{{ 'assets/favicon/favicon.png' | relative_url }}">
   <link rel="icon" type="image/png" sizes="32x32" href="{{ 'assets/favicon/favicon-32x32.png' | relative_url }}">
   <link rel="icon" type="image/png" sizes="16x16" href="{{ 'assets/favicon/favicon-16x16.png' | relative_url }}">
   <link rel="manifest" href="{{ 'assets/favicon/manifest.json' | relative_url }}">
-  <link rel="mask-icon" href="{{ 'assets/favicon/safari-pinned-tab.svg' | relative_url }}" color="#5bbad5">
+  <link rel="mask-icon" href="{{ 'assets/favicon/safari-pinned-tab.svg' | relative_url }}" color="{% if page.color.background %}{{page.color.background}}{% else %}{{site.color.background}}{% endif %}">
   <link rel="shortcut icon" href="{{ 'assets/favicon/favicon.ico' | relative_url }}">
   <meta name="apple-mobile-web-app-title" content="{{ site.short_name | escape }}">
   <meta name="application-name" content="{{ site.short_name | escape }}">
-  <meta name="msapplication-TileColor" content="{% if page.color.secondary %}{{page.color.secondary}}{% else %}{{site.color.secondary}}{% endif %}">
+  <meta name="msapplication-TileColor" content="{% if page.color.background %}{{page.color.background}}{% else %}{{site.color.background}}{% endif %}">
   <meta name="msapplication-config" content="{{ 'assets/favicon/browserconfig.xml' | relative_url }}">
-  <meta name="theme-color" content="#ffffff">
+  <meta name="theme-color" content="{% if page.color.background %}{{page.color.background}}{% else %}{{site.color.background}}{% endif %}">
 
   {% if site.google_site_verification %}
   <meta name="google-site-verification" content="{{ site.google_site_verification }}" />
