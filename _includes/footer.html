@@ -1,61 +1,14 @@
 <!-- Start Footer -->
 <footer>
-  <section id="contact" class="ampstart-footer">
+  <section class="ampstart-footer">
     <div class="container">
-      <div>
-        <h4>Information</h4>
         <nav>
-          <ul>
-            {% for link in site.data.navigation.footer %}
-              {% include footer-li.html %}
-            {% endfor %}
-          </ul>
-        </nav>
-      </div>
-
-      <div>
-        <h4>Rechtliches</h4>
-        <nav>
-          <ul>
+          <ul class="wrap">
             {% for link in site.data.navigation.legal %}
               {% include footer-li.html %}
             {% endfor %}
           </ul>
         </nav>
-        <small>
-          © {{ site.author }}, {{ site.time | date: '%Y' }}
-        </small>
-      </div>
-
-      <div>
-        <h4>Kontakt</h4>
-          <address>
-            {% if site.author %}
-            {{ site.author }}
-            <br>
-            {% endif %}
-
-            {% if site.address %}
-            {{ site.address }}
-            <br>
-            {% endif %}
-          </address>
-
-          <br>
-
-          {% if site.tel %}
-          Telefon: <a href="tel:{{ site.tel | replace: '+', '00' | replace: ' ', '' | replace: '-', '' }}" target="_blank">{{ site.tel }}</a>
-          <br>
-          {% endif %}
-          {% if site.whatsapp %}
-          Whatsapp: <a href="{{ site.whatsapp_link }}" target="_blank">{{ site.whatsapp }}</a>
-          <br>
-          {% endif %}
-          {% if site.email %}
-          E-Mail: <a href="mailto:{{ site.email }}" target="_blank">{{ site.email }}</a>
-          {% endif %}
-      {%- include social.html -%}
-      </div>
     </div>
   </section>
 </footer>

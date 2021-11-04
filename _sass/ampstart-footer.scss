@@ -1,7 +1,7 @@
 .ampstart-footer {
   background: $color-footer-background;
   color: $color-white;
-  padding: 64px 16px 128px;
+  padding: 64px 16px;
     margin-top: calc(min(256px, 20vw));
 
   .container {
@@ -29,9 +29,15 @@
     list-style: none;
     padding: 0;
     margin: 0;
+    gap: 32px;
+
+    li{
+      width: 256px;
+    }
 
     a {
       margin: 0;
+      color: inherit;
     }
   }
 

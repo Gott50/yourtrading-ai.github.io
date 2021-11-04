@@ -127,4 +127,14 @@ body .page {
       margin-right: 0;
     }
   }
+
+  #contact {
+    .wrap {
+      gap: 32px;
+    }
+
+    .item {
+      width: 544px;
+    }
+  }
 }
