@@ -93,6 +93,31 @@ body .page {
     }
   }
 
+  #roadmap {
+    text-align: center;
+    p {
+      font-weight: bold;
+      margin: auto;
+    }
+
+    .wrap {
+      margin-top: calc(min(128px, 20vw));
+      flex-wrap: nowrap;
+      gap: 0;
+    }
+
+    .item {
+      margin: auto -1px;
+      width: 100%;
+
+      p {
+        width: 198px;
+      }
+    }
+
+    
+  }
+
   .sicherheit {
     justify-content: space-between;
 
