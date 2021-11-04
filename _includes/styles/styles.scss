@@ -122,7 +122,8 @@ figure {
 }
 
 a, a:active, a:visited {
-  color: inherit;
+  color: $color-primary;
+  text-decoration: none;
 }
 
 address {
