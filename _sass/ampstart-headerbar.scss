@@ -17,7 +17,7 @@
 
 
   &[aria-hidden="true"] {
-    background: none;
+    //background: none;
     backdrop-filter: none;
   }
 
@@ -86,7 +86,8 @@
   z-index: 998;
   width: 100%;
   background: none;
-  backdrop-filter: blur(32px);
+  //backdrop-filter: blur(32px);
+  color: $color-white;
 
   .ampstart-faq-item {
     a {
@@ -109,8 +110,9 @@
     height: fit-content;
   }
 
-  a {
+  a, a:active, a:visited {
     text-decoration: none;
+    color: inherit;
   }
 }
 
@@ -183,8 +185,8 @@
 }
 
 body div[aria-hidden="true"] {
-  background: $color-white;
-  backdrop-filter: blur(32px);
+  background: #111121CC;
+  backdrop-filter: blur(10px);
   z-index: 1;
 }
 

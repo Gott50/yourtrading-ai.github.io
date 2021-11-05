@@ -41,8 +41,6 @@
 <amp-sidebar id="header-sidebar" class="ampstart-sidebar" layout="nodisplay" side="right">
   <nav class="ampstart-sidebar-nav ampstart-nav">
     <ul class="ampstart-sidebar-faq">
-      <li class="ampstart-faq-item"><a href="{{ '#' | prepend: partner | relative_url }}" itemprop="url" {% include data-amp-addparams %}><span
-        itemprop="name">Home</span></a></li>
       {% for link in site.data.navigation.header %}
       {% unless partner and link.noPartner and (this_partner.no_partner == true) %}
       <li class="ampstart-faq-item"><a href="{{ link.url | prepend: partner | relative_url }}" itemprop="url" {% include

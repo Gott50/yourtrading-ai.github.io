@@ -1,18 +1,4 @@
 body .page {
-  .first-img {
-    width: calc(min(476px, 100vw));
-    position: absolute;
-    right: 0;
-    top: 102px;
-
-    @media only screen and (max-width: $mobile-width) {
-      position: inherit;
-      top: 0;
-      display: none;
-      margin: auto;
-    }
-  }
-
   .cta-button {
     margin-bottom: 16px;
   }
@@ -22,7 +8,7 @@ body .page {
   }
 
   .page-header {
-    width: 640px;
+    width: $container-max-width-small;
     position: relative;
     margin-left: 0;
     margin-bottom: 0;
@@ -36,8 +22,8 @@ body .page {
       margin-left: 0;
     }
 
-    @media only screen and (max-width: $mobile-width) {
-      margin-bottom: 0;
+    @media only screen and (max-width: $container-max-width) {
+      margin: auto;
     }
   }
 
@@ -45,20 +31,13 @@ body .page {
     padding-top: calc(min(256px, 40vw));
   }
 
-
-
   #features {
     .wrap {
-      margin-top: 64px;
       justify-content: space-between;
 
       div {
         width: 300px;
         position: relative;
-
-        @media only screen and (max-width: $mobile-width) {
-          margin: auto;
-        }
       }
 
       >:nth-child(2) {
@@ -66,6 +45,15 @@ body .page {
       }
       >:nth-child(3) {
         margin-top: 256px;
+      }
+
+      @media only screen and (max-width: $container-max-width) {
+        gap: 128px;
+
+        > :nth-child(n) {
+          width: $container-max-width-small;
+          margin: auto;
+        }
       }
     }
 
@@ -78,6 +66,10 @@ body .page {
     h4 {
       margin-top: 32px;
     }
+
+    @media only screen and (max-width: $container-max-width) {
+      padding-top: 0;
+    }
   }
 
   #app {
@@ -85,16 +77,53 @@ body .page {
       position: absolute;
       left: 0;
       right: 0;
+      max-width: 1015px;
+      margin-left: auto;
+
+      > :nth-child(1) {
+        top: -250px;
+        right: 0;
+      }
+      > :nth-child(2) {
+        right: 0;
+      }
+
+      @media only screen and (max-width: $container-max-width) {
+        position: relative;
+
+        > :nth-child(1) {
+          position: relative;
+          top: 0;
+        }
+        > :nth-child(2) {
+          bottom: 30%;
+        }
+
+        > :nth-child(n) {
+          right: -16px;
+        }
+      }
     }
 
     > .text {
       width: 448px;
       font-weight: bold;
+
+      @media only screen and (max-width: $container-max-width) {
+        margin: auto;
+        width: $container-max-width-small;
+      }
     }
   }
 
   #roadmap {
     text-align: center;
+
+    @media only screen and (max-width: $container-max-width) {
+      text-align: left;
+      width: $container-max-width-small;
+    }
+
     p {
       font-weight: bold;
       margin: auto;
@@ -104,14 +133,38 @@ body .page {
       margin-top: calc(min(128px, 20vw));
       flex-wrap: nowrap;
       gap: 0;
+
+      @media only screen and (max-width: $container-max-width) {
+        flex-direction: column;
+      }
     }
 
     .item {
       margin: auto -1px;
       width: 100%;
 
-      p {
+      div {
         width: 198px;
+      }
+
+      @media only screen and (max-width: $container-max-width) {
+        display: grid;
+        grid-template-columns: 24px 1fr;
+        gap: 16px;
+        margin-top: 8px;
+
+        div {
+          width: 100%;
+
+          h3 {
+            margin-top: 0;
+            margin-bottom: 8px;
+          }
+
+          p {
+            font-weight: normal;
+          }
+        }
       }
     }
   }
@@ -120,6 +173,15 @@ body .page {
     .splashes {
       position: absolute;
       width: 100%;
+
+      @media only screen and (max-width: $container-max-width) {
+        position: relative;
+        margin-bottom: -30%;
+
+        > amp-img {
+          position: relative;
+        }
+      }
     }
     .text {
       width: 554px;
@@ -135,6 +197,11 @@ body .page {
 
     .item {
       width: 544px;
+    }
+
+    @media only screen and (max-width: $container-max-width) {
+      margin: auto;
+      width: $container-max-width-small;
     }
   }
 }

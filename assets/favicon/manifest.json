@@ -19,8 +19,8 @@ layout: none
 "type": "image/png"
 }
 ],
-"theme_color": "{{ site.color.background }}",
-"background_color": "{{ site.color.background }}",
+"theme_color": "{{ site.style.background }}",
+"background_color": "{{ site.style.background }}",
 "display": "standalone",
 "scope": "/",
 "lang": "de",

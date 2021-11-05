@@ -17,12 +17,13 @@ show_excerpts: true # set to true to show excerpts on the homepage
 
 
 
-color:
+style:
   primary: "#FFFF00"
   secondary: "#1DBAB1"
   background: "#151621"
   hover: "#FFFF00"
   active: "#FFFF00"
+  container-max-width: 1120px
 
 logo: assets/Robotter/Logo-Robotter.svg
 defaultHeaderImage:

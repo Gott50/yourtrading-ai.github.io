@@ -8,7 +8,7 @@ layout: none
     <msapplication>
         <tile>
             <square150x150logo src="{{ 'assets/favicon/mstile-150x150.png' | relative_url }}"/>
-            <TileColor>{{ site.color.background}}</TileColor>
+            <TileColor>{{ site.style.background}}</TileColor>
         </tile>
     </msapplication>
 </browserconfig>

@@ -1,17 +1,18 @@
 $mobile-width: 940px;
 $font-family--primary: 'Lexend', sans-serif;
 $font-family--heading: 'Lexend', sans-serif;
-$container-max-width: 1120px;
-$container-max-width-small: 736px;
+
+$container-max-width: {% if page.style.container-max-width %} {{page.style.container-max-width}} {% else %} {{site.style.container-max-width}} {% endif %};
+$container-max-width-small: 640px;
 $height-header: 82px;
 
 $color-white: #FFF;
 $color-black: #4C4C4C;
-$color-primary: {% if page.color.primary %} {{page.color.primary}} {% else %} {{site.color.primary}} {% endif %};
-$color-secondary: {% if page.color.secondary %} {{page.color.secondary}} {% else %} {{site.color.secondary}} {% endif %};
-$color-hover: {% if page.color.hover %} {{page.color.hover}} {% else %} {{site.color.hover}} {% endif %};
-$color-active: {% if page.color.active %} {{page.color.active}} {% else %} {{site.color.active}} {% endif %};
-$color-body-background: {% if page.color.background %} {{page.color.background}} {% else %} {{site.color.background}} {% endif %};
+$color-primary: {% if page.style.primary %} {{page.style.primary}} {% else %} {{site.style.primary}} {% endif %};
+$color-secondary: {% if page.style.secondary %} {{page.style.secondary}} {% else %} {{site.style.secondary}} {% endif %};
+$color-hover: {% if page.style.hover %} {{page.style.hover}} {% else %} {{site.style.hover}} {% endif %};
+$color-active: {% if page.style.active %} {{page.style.active}} {% else %} {{site.style.active}} {% endif %};
+$color-body-background: {% if page.style.background %} {{page.style.background}} {% else %} {{site.style.background}} {% endif %};
 
 
 $color-lightblue: #009FE3;
