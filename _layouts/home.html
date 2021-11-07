@@ -11,7 +11,8 @@ styles:
     <h1>{{ page.title }}</h1>
     <p>{{ page.subtitle }}</p>
 
-    {% assign cta_text= "Get in Touch" %}
+    {% assign cta_text= "To The Docs" %}
+    {% assign cta_href= "#ressources" %}
     {% include cta-button.html %}
 
     <div class="splashes">
@@ -33,9 +34,9 @@ styles:
   <section id="features">
     <div class="wrap">
       <div>
-        <amp-img src="{{ 'assets/Robotter/SEARCH.svg' | relative_url }}"
+        <amp-img src="{{ 'assets/Robotter/SEARCH.png' | relative_url }}"
                  width="96" height="96" layout="intrinsic"
-                 alt="SEARCH.svg">
+                 alt="SEARCH">
           <div placeholder style="background: transparent"></div>
         </amp-img>
 
@@ -46,9 +47,9 @@ styles:
           search interest.</p>
       </div>
       <div>
-        <amp-img src="{{ 'assets/Robotter/PREMIUM-QUALITY.svg' | relative_url }}"
+        <amp-img src="{{ 'assets/Robotter/PREMIUM-QUALITY.png' | relative_url }}"
                  width="96" height="96" layout="intrinsic"
-                 alt="PREMIUM-QUALITY.svg">
+                 alt="PREMIUM-QUALITY">
           <div placeholder style="background: transparent"></div>
         </amp-img>
 
@@ -58,9 +59,9 @@ styles:
           timeseries and added to the graph of selected metrics. Find patterns, before you train your model.</p>
       </div>
       <div>
-        <amp-img src="{{ 'assets/Robotter/SOLUTIONS.svg' | relative_url }}"
+        <amp-img src="{{ 'assets/Robotter/SOLUTIONS.png' | relative_url }}"
                  width="96" height="96" layout="intrinsic"
-                 alt="SOLUTIONS.svg">
+                 alt="SOLUTIONS">
           <div placeholder style="background: transparent"></div>
         </amp-img>
 
@@ -81,7 +82,7 @@ styles:
                  alt="Curve3.png">
           <div placeholder style="background: transparent"></div>
           <amp-img src="{{ 'assets/Robotter/Background3.png' | relative_url }}" width="1015" height="1118"
-                   style="top: -250px" class="splash" layout="intrinsic"
+                   style="top: -150px" class="splash" layout="intrinsic"
                    amp-fx="parallax" data-parallax-factor="0.75"
                    alt="Background3.png">
             <div placeholder style="background: transparent"></div>

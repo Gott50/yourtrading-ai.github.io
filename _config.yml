@@ -27,8 +27,8 @@ style:
 
 logo: assets/Robotter/Logo-Robotter.svg
 defaultHeaderImage:
-cta_text_default: "Contact"
-cta_href_default: "/#contact"
+cta_text_default: "Docs"
+cta_href_default: "/#ressources"
 
 amp-link-variable-allowed-origin: "https://app.wechselgott.com"
 data-amp-addparams:
