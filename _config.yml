@@ -27,7 +27,7 @@ style:
 
 logo: assets/Robotter/Logo-Robotter.svg
 defaultHeaderImage:
-cta_text_default: "Docs"
+cta_text_default: "Whitepaper"
 cta_href_default: "/#ressources"
 
 amp-link-variable-allowed-origin: "https://app.wechselgott.com"

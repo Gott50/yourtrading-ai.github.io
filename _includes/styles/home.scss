@@ -117,22 +117,27 @@ body .page {
   }
 
   #roadmap {
-    text-align: center;
-
     @media only screen and (max-width: $container-max-width) {
-      text-align: left;
       width: $container-max-width-small;
     }
 
-    p {
-      font-weight: bold;
-      margin: auto;
+    p, ul, ol {
+      margin: 0;
+    }
+
+    p, h3 {
+      text-align: center;
+
+      @media only screen and (max-width: $container-max-width) {
+        text-align: left;
+      }
     }
 
     .wrap {
       margin-top: calc(min(128px, 20vw));
       flex-wrap: nowrap;
       gap: 0;
+      align-items: flex-start;
 
       @media only screen and (max-width: $container-max-width) {
         flex-direction: column;
@@ -140,18 +145,25 @@ body .page {
     }
 
     .item {
-      margin: auto -1px;
+      margin-left: -1px;
+      margin-right: -1px;
       width: 100%;
 
       div {
+        margin: auto;
         width: 198px;
+
+        @media only screen and (max-width: $container-max-width) {
+          margin: 0;
+        }
       }
 
       @media only screen and (max-width: $container-max-width) {
         display: grid;
-        grid-template-columns: 24px 1fr;
+        grid-template-columns: 28px 1fr;
         gap: 16px;
         margin-top: 8px;
+        align-items: start;
 
         div {
           width: 100%;
@@ -159,10 +171,6 @@ body .page {
           h3 {
             margin-top: 0;
             margin-bottom: 8px;
-          }
-
-          p {
-            font-weight: normal;
           }
         }
       }
