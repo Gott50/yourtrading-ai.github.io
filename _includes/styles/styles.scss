@@ -140,6 +140,10 @@ section {
 }
 
 .splashes {
+  > .splash {
+    box-shadow: 0px 0 20px 20px #151621;
+  }
+
   .splash {
     position: absolute;
 

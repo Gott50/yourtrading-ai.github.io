@@ -10,7 +10,7 @@ url: https://yourtrading-ai.github.io
 address:
 description: > # this means to ignore newlines until "show_excerpts:"
   Create Machine Learning models without code.
-  Publish your predictions on Chainlink.
+  Deploy your own AI trading bots.
   Automate trading and get paid.
 
 show_excerpts: true # set to true to show excerpts on the homepage
