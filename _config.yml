@@ -30,7 +30,7 @@ defaultHeaderImage:
 cta_text_default: "Whitepaper"
 cta_href_default: "/#ressources"
 
-amp-link-variable-allowed-origin: "https://app.wechselgott.com"
+amp-link-variable-allowed-origin:
 data-amp-addparams:
 
 # Contact
@@ -71,10 +71,10 @@ minima:
 #    github:  jekyll
 #    rss: rss
     # dribbble: jekyll
-#     facebook: wechselgott
+#     facebook:
     # flickr:   jekyll
-#     instagram: wechselgott_app
-#     linkedin: wechselgott
+#     instagram:
+#     linkedin:
 #     xing: company/finum
     # pinterest: jekyll
     # youtube: jekyll
@@ -105,7 +105,8 @@ defaults:
     values:
       amp-sidebar: true
       nocta: true
-      image: /assets/WechselGott/Logo-WechselGott-Typo-Right.svg
+      image: /assets/Robotter/Logo-Robotter.svg
+      author: RobOtter
 
   # _posts
   - scope:
