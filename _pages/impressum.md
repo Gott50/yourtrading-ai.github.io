@@ -13,7 +13,6 @@ L&ouml;hestra&szlig;e 19a<br />
 
 <p><strong>Vertreten durch:</strong><br />
 Hukiewitz, Mike<br />
-Morawitz, Timo<br />
 Smeljanez, Philipp</p>
 
 <h2>Kontakt</h2>
@@ -25,3 +24,8 @@ E-Mail: philipp.smeljanez@robotter.ai</p>
 <p>Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.</p>
 
 <p>Quelle: <a href="https://www.e-recht24.de/impressum-generator.html">https://www.e-recht24.de/impressum-generator.html</a></p>
+
+<h2>Sonstige Informationen</h2>
+<p>Diese Seite wird gewartet von Distinctive Instinct.<br>
+Weitere Informationen erhalten Sie unter: <a href="https://www.distinctive-instinct.com/" target="_blank">distinctive-instinct.com</a>
+</p>
